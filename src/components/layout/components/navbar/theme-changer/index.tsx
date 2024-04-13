@@ -12,11 +12,11 @@ const ThemeChanger: FC = () => {
 			thumbIcon={({ isSelected, className }) =>
 				isSelected ? (
 					<span className={className}>
-						<Icon icon="material-symbols:sunny" />
+						<Icon icon="mdi:moon-waning-crescent" />
 					</span>
 				) : (
 					<span className={className}>
-						<Icon icon="mdi:moon-waning-crescent" />
+						<Icon icon="material-symbols:sunny" />
 					</span>
 				)
 			}
