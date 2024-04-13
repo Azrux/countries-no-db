@@ -8,6 +8,7 @@ import {
 import CountriesLogo from "@assets/country-flags.png";
 import type { FC } from "react";
 import ThemeChanger from "./theme-changer";
+import LanguageChanger from "./language-changer";
 
 const Navbar: FC = () => {
 	return (
@@ -23,6 +24,7 @@ const Navbar: FC = () => {
 				{/* TODO: Agregar buscador y filtros */}
 				<NavbarItem>
 					<ThemeChanger />
+					<LanguageChanger />
 				</NavbarItem>
 			</NavbarContent>
 		</NextNavbar>

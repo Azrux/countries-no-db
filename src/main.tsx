@@ -5,6 +5,7 @@ import App from "./App.tsx";
 import "./index.css";
 import React from "react";
 import { ThemeProvider } from "next-themes";
+import { LanguageProvider } from "./context/languages/provider.tsx";
 
 const root = document.getElementById("root");
 
@@ -15,7 +16,9 @@ ReactDOM.createRoot(root).render(
 		<BrowserRouter>
 			<NextUIProvider>
 				<ThemeProvider>
-					<App />
+					<LanguageProvider>
+						<App />
+					</LanguageProvider>
 				</ThemeProvider>
 			</NextUIProvider>
 		</BrowserRouter>
