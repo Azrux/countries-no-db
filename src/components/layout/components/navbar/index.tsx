@@ -10,8 +10,10 @@ import type { FC } from "react";
 import ThemeChanger from "./theme-changer";
 import LanguageChanger from "./language-changer";
 import { Link } from "react-router-dom";
+import { useLanguage } from "@hooks/useLanguage";
 
 const Navbar: FC = () => {
+	const { translate } = useLanguage();
 	return (
 		<NextNavbar
 			isBlurred
@@ -26,7 +28,7 @@ const Navbar: FC = () => {
 			</NavbarContent>
 			<NavbarContent justify="center">
 				<NavbarItem className="transition hover:translate-y-1 hover:bg-danger-700 hover:bg-opacity-50 p-2 rounded-lg">
-					<Link to="/">Home</Link>
+					<Link to="/">{translate("navbar.home", "Home")}</Link>
 				</NavbarItem>
 			</NavbarContent>
 			<NavbarContent justify="end">

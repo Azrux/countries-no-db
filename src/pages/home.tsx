@@ -4,10 +4,13 @@ import { getCountries } from "@src/endpoints";
 import Card from "@common-components/card";
 import { Pagination } from "@nextui-org/react";
 import type { CountriesType } from "@src/types/countries";
+import { useLanguage } from "@hooks/useLanguage";
 
 const Home = () => {
 	const [countries, setCountries] = useState<CountriesType[] | undefined>();
 	const [currentPage, setCurrentPage] = useState(1);
+	const { language } = useLanguage();
+
 	const countriesPerPage = 10;
 	const totalCountries = countries
 		? Math.ceil(countries?.length / countriesPerPage)
@@ -33,7 +36,7 @@ const Home = () => {
 				{currentCountries?.map((country) => (
 					<Card
 						key={country.code}
-						name={country.name}
+						name={language === "en" ? country.name : country.esName}
 						capital={country.capital}
 						image={country.flag}
 						alt={country.altImg}

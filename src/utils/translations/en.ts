@@ -1,5 +1,5 @@
 export const enTranslations = {
-	app: {
-		welcome: "Hi",
+	navbar: {
+		home: "Home",
 	},
 };

@@ -6,6 +6,7 @@ export const getCountries = async () => {
 		// biome-ignore lint/suspicious/noExplicitAny: <explanation>
 		const mappedData = response.data.map((country: any) => ({
 			name: country.name.common,
+			esName: country.translations.spa?.common || country.name.common,
 			code: country.cca3,
 			flag: country.flags.svg,
 			altImg: country.flags.alt,

@@ -1,5 +1,5 @@
 export const esTranslations = {
-	app: {
-		welcome: "Hola",
+	navbar: {
+		home: "Inicio",
 	},
 };
