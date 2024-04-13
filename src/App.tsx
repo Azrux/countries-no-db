@@ -1,7 +1,10 @@
 import Card from "@common-components/card";
 import Layout from "@components/layout";
+import { getCountries } from "./endpoints";
 
 function App() {
+	const data = getCountries();
+
 	return (
 		<Layout className="bg-default-100 min-h-screen">
 			<Card
