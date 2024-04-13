@@ -7,7 +7,7 @@ function App() {
 	const text = translate("app.welcome", "Oi");
 
 	return (
-		<Layout>
+		<Layout className="bg-default-100 min-h-screen">
 			<div>{text}</div>
 		</Layout>
 	);

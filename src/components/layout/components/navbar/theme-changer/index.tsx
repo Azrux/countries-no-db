@@ -9,6 +9,8 @@ const ThemeChanger: FC = () => {
 	return (
 		<Switch
 			size="md"
+			color="default"
+			isSelected={theme === "dark"}
 			thumbIcon={({ isSelected, className }) =>
 				isSelected ? (
 					<span className={className}>

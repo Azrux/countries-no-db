@@ -9,6 +9,7 @@ const LanguageChanger: FC = () => {
 	return (
 		<Switch
 			size="md"
+			color="default"
 			thumbIcon={({ isSelected, className }) =>
 				isSelected ? (
 					<span className={className}>
