@@ -1,20 +1,14 @@
-import Card from "@common-components/card";
 import Layout from "@components/layout";
-import { getCountries } from "./endpoints";
+import { Route, Routes } from "react-router-dom";
+import Home from "@pages/home";
+import type { FC } from "react";
 
-function App() {
-	const data = getCountries();
-
-	return (
-		<Layout className="bg-default-100 min-h-screen">
-			<Card
-				name="Argentina"
-				capital="Buenos Aires"
-				image="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/1200px-Flag_of_Argentina.svg.png"
-				onButtonClick={() => alert("Argentina")}
-			/>
-		</Layout>
-	);
-}
+const App: FC = () => (
+	<Layout className="bg-default-100 min-h-screen">
+		<Routes>
+			<Route path="/" element={<Home />} />
+		</Routes>
+	</Layout>
+);
 
 export default App;

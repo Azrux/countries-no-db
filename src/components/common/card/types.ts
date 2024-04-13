@@ -5,4 +5,5 @@ export type CardType = Omit<CommonTypes, "chidlren"> & {
 	capital: string;
 	image: string;
 	onButtonClick: () => void;
+	alt: string;
 };

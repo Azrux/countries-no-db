@@ -7,13 +7,14 @@
     "skipLibCheck": true,
     "baseUrl": "./",
     "paths": {
-        "@common-components/*": ["src/components/common/*"],
-        "@components/*": ["src/components/*"],
-        "@assets/*": ["src/assets/*"],
-        "@pages/*": ["src/pages/*"],
-        "@utils/*": ["src/utils/*"],
-        "@hooks/*": ["src/hooks/*"],
-        "@context/*": ["src/context/*"],
+      "@common-components/*": ["src/components/common/*"],
+      "@components/*": ["src/components/*"],
+      "@assets/*": ["src/assets/*"],
+      "@pages/*": ["src/pages/*"],
+      "@utils/*": ["src/utils/*"],
+      "@hooks/*": ["src/hooks/*"],
+      "@context/*": ["src/context/*"],
+      "@src/*": ["src/*"],
     },
 
     /* Bundler mode */
