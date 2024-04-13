@@ -5,7 +5,7 @@ import { Link } from "react-router-dom";
 
 const Footer: FC = () => {
 	return (
-		<div className="flex flex-col sm:flex-row justify-around items-center bg-default-50 fixed bottom-0 w-full z-40">
+		<div className="flex flex-col sm:flex-row justify-around items-center bg-default-50 fixed bottom-0 w-full z-40 pt-2">
 			<div className="flex items-center space-x-4 pb-2 sm:pb-0">
 				{/* TODO: Add pagination here? */}
 				<Tooltip content="Portfolio">
