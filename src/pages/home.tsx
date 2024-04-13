@@ -32,7 +32,7 @@ const Home = () => {
 
 	return countries ? (
 		<div className="flex flex-col items-center justify-center gap-4">
-			<div className="flex flex-wrap gap-10 items-center justify-center">
+			<div className="flex flex-wrap gap-10 items-center justify-center pb-16 sm:pb-6">
 				{currentCountries?.map((country) => (
 					<Card
 						key={country.code}
