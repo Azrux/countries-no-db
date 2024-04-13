@@ -4,6 +4,7 @@ import ReactDOM from "react-dom/client";
 import App from "./App.tsx";
 import "./index.css";
 import React from "react";
+import { ThemeProvider } from "next-themes";
 
 const root = document.getElementById("root");
 
@@ -13,7 +14,9 @@ ReactDOM.createRoot(root).render(
 	<React.StrictMode>
 		<BrowserRouter>
 			<NextUIProvider>
-				<App />
+				<ThemeProvider>
+					<App />
+				</ThemeProvider>
 			</NextUIProvider>
 		</BrowserRouter>
 	</React.StrictMode>,

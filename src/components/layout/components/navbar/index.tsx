@@ -7,6 +7,7 @@ import {
 } from "@nextui-org/react";
 import CountriesLogo from "@assets/country-flags.png";
 import type { FC } from "react";
+import ThemeChanger from "./theme-changer";
 
 const Navbar: FC = () => {
 	return (
@@ -19,8 +20,9 @@ const Navbar: FC = () => {
 
 			{/* Search & Filters */}
 			<NavbarContent className="hidden sm:flex !justify-center gap-3">
-				<NavbarItem className="transition hover:translate-y-1">
-					{/* TODO: Agregar buscador y filtros */}
+				{/* TODO: Agregar buscador y filtros */}
+				<NavbarItem>
+					<ThemeChanger />
 				</NavbarItem>
 			</NavbarContent>
 		</NextNavbar>
