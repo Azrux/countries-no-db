@@ -1,4 +1,5 @@
 import { useLanguage } from "@hooks/useLanguage";
+import { Button } from "@nextui-org/react";
 import { getCountry } from "@src/endpoints";
 import type { CountriesType } from "@src/types/countries";
 import { useEffect, useState, type FC } from "react";
@@ -36,18 +37,14 @@ const Detail: FC = () => {
 		country?.name && (
 			<div className="p-4 h-[calc(100vh-200px)] bg-black rounded-lg shadow-md">
 				<div
-					className="h-full bg-cover bg-center rounded-lg"
+					className="h-full bg-cover bg-center rounded-lg opacity-40"
 					style={{
 						backgroundImage: `url(${country?.flag})`,
 						backgroundSize: "cover",
-						opacity: 0.4,
 					}}
 				/>
 				<div className="absolute inset-0 flex items-center justify-center">
-					<div
-						className="flex flex-col items-center justify-center p-4 sm:p-24 border rounded-lg shadow-md text-center bg-white text-black max-w-[250px] sm:max-w-full text-wrap"
-						style={{ opacity: 0.7 }}
-					>
+					<div className="bg-opacity-80 flex flex-col items-center justify-center p-4 sm:p-24 border rounded-lg shadow-md text-center bg-white text-black max-w-[250px] sm:max-w-full text-wrap">
 						<h2 className="font-title text-[30px] sm:text-[50px] font-semibold mb-2 sm:mb-6">
 							{countryName}
 						</h2>
@@ -74,6 +71,13 @@ const Detail: FC = () => {
 							</span>
 							{country?.population}
 						</p>
+						<Button
+							color={"danger"}
+							onClick={() => navigate("/")}
+							className="mt-6"
+						>
+							{translate("details.goBack", "Go Back")}
+						</Button>
 					</div>
 				</div>
 			</div>
