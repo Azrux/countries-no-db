@@ -49,8 +49,6 @@ const Home = () => {
 		}
 	}, [countriesChanged]);
 
-	// console.log(filteredCountries?.length);
-
 	return countries ? (
 		<div className="flex flex-col items-center justify-center gap-4">
 			<SortAndFilters

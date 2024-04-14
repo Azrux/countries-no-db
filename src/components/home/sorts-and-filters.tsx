@@ -48,8 +48,6 @@ const SortAndFilters: FC<SortAndFiltersProps> = ({
 	};
 
 	const filterByContinent = (continents: string) => {
-		console.log(continents);
-
 		if (!continents) {
 			setCountries(countries);
 			setCountriesChanged(true);
