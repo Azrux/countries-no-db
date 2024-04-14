@@ -35,7 +35,3 @@ To get started with the project, follow these steps:
 - Use the sorting and filtering options to organize countries by name or continent.
 - Toggle between dark and light modes using the theme switcher.
 - Change the language between English and Spanish for localization.
-
-## Todo
-- Add page 404
-- Improve Skeleton

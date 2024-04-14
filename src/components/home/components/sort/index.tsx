@@ -12,7 +12,7 @@ const Sort: FC<SortProps> = ({ sortCountries }) => {
 			<Select
 				id="sort"
 				className="flex items-center w-full"
-				label={translate("filters.sortLabel", "Sort by")}
+				label={translate("filters.sortLabel", "Sort by...")}
 				value="name"
 				color="danger"
 				size="sm"

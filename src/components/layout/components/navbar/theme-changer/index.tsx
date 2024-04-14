@@ -34,7 +34,9 @@ const ThemeChanger: FC = () => {
 				)
 			}
 			onChange={() => setTheme(theme === "dark" ? "light" : "dark")}
-			isSelected={prefersDarkMode}
+			isSelected={
+				prefersDarkMode === true ? theme === "dark" : theme === "light"
+			}
 		/>
 	);
 };

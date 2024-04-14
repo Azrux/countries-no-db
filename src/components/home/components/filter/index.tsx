@@ -12,7 +12,7 @@ const Filter: FC<FilterProps> = ({ filterByContinent }) => {
 			<Select
 				id="filters"
 				className="flex items-center w-full"
-				label={translate("filters.filterLabel", "Filter by")}
+				label={translate("filters.filterLabel", "Filter by...")}
 				selectionMode="multiple"
 				color="danger"
 				size="sm"

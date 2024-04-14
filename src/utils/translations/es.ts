@@ -6,8 +6,8 @@ export const esTranslations = {
 		goBack: "Volver",
 	},
 	filters: {
-		sortLabel: "Ordenar por",
-		filterLabel: "Filtrar por",
+		sortLabel: "Ordenar por...",
+		filterLabel: "Filtrar por...",
 		america: "América",
 		africa: "África",
 		asia: "Asia",
@@ -19,5 +19,10 @@ export const esTranslations = {
 	},
 	home: {
 		moreDetails: "Más detalles",
+	},
+	notFound: {
+		title: "Ups, algo salió mal",
+		description: "La página que buscas no existe.",
+		button: "Ir al inicio",
 	},
 };
