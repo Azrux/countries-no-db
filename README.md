@@ -42,3 +42,4 @@ To get started with the project, follow these steps:
 - Make app auto-detect browser language
 - Fix switches when detecting themes or languages
 - Improve Skeleton
+- Add searcher
