@@ -1,16 +1,27 @@
 import { Icon } from "@iconify/react/dist/iconify.js";
 import { Switch } from "@nextui-org/react";
 import { useTheme } from "next-themes";
-import type { FC } from "react";
+import { useEffect, type FC } from "react";
 
 const ThemeChanger: FC = () => {
 	const { theme, setTheme } = useTheme();
+
+	const prefersDarkMode = window.matchMedia?.(
+		"(prefers-color-scheme: dark)",
+	).matches;
+
+	useEffect(() => {
+		if (prefersDarkMode) {
+			setTheme("dark");
+		} else {
+			setTheme("light");
+		}
+	}, [prefersDarkMode, setTheme]);
 
 	return (
 		<Switch
 			size="md"
 			color="default"
-			isSelected={theme === "dark"}
 			thumbIcon={({ isSelected, className }) =>
 				isSelected ? (
 					<span className={className}>
@@ -23,6 +34,7 @@ const ThemeChanger: FC = () => {
 				)
 			}
 			onChange={() => setTheme(theme === "dark" ? "light" : "dark")}
+			isSelected={prefersDarkMode}
 		/>
 	);
 };

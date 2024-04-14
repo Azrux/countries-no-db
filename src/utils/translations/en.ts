@@ -1,7 +1,4 @@
 export const enTranslations = {
-	navbar: {
-		home: "Home",
-	},
 	details: {
 		continents: "Continents",
 		officialLanguages: "Official languages",
@@ -18,5 +15,8 @@ export const enTranslations = {
 		oceania: "Oceania",
 		antarctica: "Antarctica",
 		name: "Name",
+	},
+	home: {
+		moreDetails: "More details",
 	},
 };

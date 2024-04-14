@@ -6,7 +6,10 @@ import { esTranslations } from "@utils/translations/es";
 import { enTranslations } from "@utils/translations/en";
 
 export const LanguageProvider: FC<CommonTypes> = ({ children }) => {
-	const [language, setLanguage] = useState<"en" | "es">("es");
+	const locale = navigator.language;
+	const defaultLocale = locale.includes("es") ? "es" : "en";
+
+	const [language, setLanguage] = useState<"en" | "es">(defaultLocale);
 
 	const translations: TranslationsType = {
 		es: esTranslations as unknown as TranslationsType["es"],

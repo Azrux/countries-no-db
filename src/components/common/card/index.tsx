@@ -8,8 +8,11 @@ import {
 } from "@nextui-org/react";
 import type { FC } from "react";
 import type { CardType } from "./types";
+import { useLanguage } from "@hooks/useLanguage";
 
 const Card: FC<CardType> = ({ name, capital, image, alt, onButtonClick }) => {
+	const { translate } = useLanguage();
+
 	return (
 		<NextUICard className="py-4 w-[300px] h-[350px] transition-transform transform hover:scale-110 mb-2 hover:z-50 hover:shadow-lg">
 			<CardHeader className="pb-0 pt-2 px-4 flex-col items-start">
@@ -21,7 +24,7 @@ const Card: FC<CardType> = ({ name, capital, image, alt, onButtonClick }) => {
 			</CardBody>
 			<CardFooter className="flex justify-end mt-2">
 				<Button onClick={onButtonClick} color="danger">
-					More details
+					{translate("home.moreDetails", "More details")}
 				</Button>
 			</CardFooter>
 		</NextUICard>

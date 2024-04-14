@@ -39,7 +39,5 @@ To get started with the project, follow these steps:
 ## Todo
 - Add clear filters button
 - Add page 404
-- Make app auto-detect browser language
-- Fix switches when detecting themes or languages
 - Improve Skeleton
 - Add searcher

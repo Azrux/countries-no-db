@@ -22,6 +22,7 @@ const LanguageChanger: FC = () => {
 				)
 			}
 			onChange={() => changeLanguage(language === "es" ? "en" : "es")}
+			isSelected={language === "en"}
 		/>
 	);
 };
