@@ -15,6 +15,7 @@ export const enTranslations = {
 		oceania: "Oceania",
 		antarctica: "Antarctica",
 		name: "Name",
+		searchPlaceholder: "Search...",
 	},
 	home: {
 		moreDetails: "More details",

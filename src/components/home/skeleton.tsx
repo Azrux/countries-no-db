@@ -7,7 +7,7 @@ import {
 } from "@nextui-org/react";
 
 const HomeSkeleton = () => {
-	const cardNumber = 12;
+	const cardNumber = 10;
 
 	return (
 		<div className="grid grid-cols-1 gap-4 md:grid-cols-2 lg:grid-cols-4">

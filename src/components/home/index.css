@@ -1,0 +1,8 @@
+[data-slot="input-wrapper"] {
+  border-radius: 9px !important;
+  font-size: 30px !important;
+}
+
+[data-slot="input"] {
+  font-size: 14px !important;
+}

@@ -37,7 +37,5 @@ To get started with the project, follow these steps:
 - Change the language between English and Spanish for localization.
 
 ## Todo
-- Add clear filters button
 - Add page 404
 - Improve Skeleton
-- Add searcher

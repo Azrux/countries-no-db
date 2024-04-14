@@ -43,6 +43,7 @@ const Home = () => {
 		});
 	}, []);
 
+	// force re-render on array change
 	useEffect(() => {
 		if (countriesChanged) {
 			setCountriesChanged(false);
@@ -53,7 +54,8 @@ const Home = () => {
 		<div className="flex flex-col items-center justify-center gap-4">
 			<SortAndFilters
 				countries={countries}
-				setCountries={setFilteredCountries}
+				filteredCountries={filteredCountries}
+				setFilteredCountries={setFilteredCountries}
 				setCountriesChanged={setCountriesChanged}
 			/>
 			<div className="flex flex-wrap gap-10 items-center justify-center pb-16 sm:pb-6">

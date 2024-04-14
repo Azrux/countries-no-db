@@ -15,6 +15,7 @@ export const esTranslations = {
 		oceania: "Oceanía",
 		antarctica: "Antártida",
 		name: "Nombre",
+		searchPlaceholder: "Buscar...",
 	},
 	home: {
 		moreDetails: "Más detalles",

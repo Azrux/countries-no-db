@@ -9,6 +9,7 @@ export interface PaginationProps {
 
 export interface SortAndFiltersProps {
 	countries: CountriesType[];
-	setCountries: (countries: CountriesType[]) => void;
+	filteredCountries?: CountriesType[];
+	setFilteredCountries: (countries: CountriesType[]) => void;
 	setCountriesChanged: (changed: boolean) => void;
 }
