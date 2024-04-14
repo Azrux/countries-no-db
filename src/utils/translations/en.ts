@@ -6,6 +6,7 @@ export const enTranslations = {
 		continents: "Continents",
 		officialLanguages: "Official languages",
 		population: "Population",
+		goBack: "Go Back",
 	},
 	filters: {
 		sortLabel: "Sort by",

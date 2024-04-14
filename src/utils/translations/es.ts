@@ -6,6 +6,7 @@ export const esTranslations = {
 		continents: "Continentes",
 		officialLanguages: "Idiomas oficiales",
 		population: "Población",
+		goBack: "Volver",
 	},
 	filters: {
 		sortLabel: "Ordenar por",
