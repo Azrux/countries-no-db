@@ -7,4 +7,15 @@ export const enTranslations = {
 		officialLanguages: "Official languages",
 		population: "Population",
 	},
+	filters: {
+		sortLabel: "Sort by",
+		filterLabel: "Filter by",
+		america: "America",
+		africa: "Africa",
+		asia: "Asia",
+		europe: "Europe",
+		oceania: "Oceania",
+		antarctica: "Antarctica",
+		name: "Name",
+	},
 };

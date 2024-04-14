@@ -6,21 +6,26 @@ import { Pagination } from "@nextui-org/react";
 import type { CountriesType } from "@src/types/countries";
 import { useLanguage } from "@hooks/useLanguage";
 import { useNavigate } from "react-router-dom";
+import SortAndFilters from "@components/home/sorts-and-filters";
 
 const Home = () => {
 	const [countries, setCountries] = useState<CountriesType[] | undefined>();
+	const [filteredCountries, setFilteredCountries] = useState<
+		CountriesType[] | undefined
+	>();
 	const [currentPage, setCurrentPage] = useState(1);
 	const { language } = useLanguage();
+	const [countriesChanged, setCountriesChanged] = useState(false);
 	const navigate = useNavigate();
 
 	const countriesPerPage = 10;
-	const totalCountries = countries
-		? Math.ceil(countries?.length / countriesPerPage)
+	const totalCountries = filteredCountries
+		? Math.ceil(filteredCountries?.length / countriesPerPage)
 		: 0;
 
 	const indexOfLastCountry = currentPage * countriesPerPage;
 	const indexOfFirstCountry = indexOfLastCountry - countriesPerPage;
-	const currentCountries = countries?.slice(
+	const currentCountries = filteredCountries?.slice(
 		indexOfFirstCountry,
 		indexOfLastCountry,
 	);
@@ -34,19 +39,33 @@ const Home = () => {
 		getCountries().then((response) => {
 			if (!response || !response.length) return;
 			setCountries(response);
+			setFilteredCountries(response);
 		});
 	}, []);
 
+	useEffect(() => {
+		if (countriesChanged) {
+			setCountriesChanged(false);
+		}
+	}, [countriesChanged]);
+
+	// console.log(filteredCountries?.length);
+
 	return countries ? (
 		<div className="flex flex-col items-center justify-center gap-4">
+			<SortAndFilters
+				countries={countries}
+				setCountries={setFilteredCountries}
+				setCountriesChanged={setCountriesChanged}
+			/>
 			<div className="flex flex-wrap gap-10 items-center justify-center pb-16 sm:pb-6">
 				{currentCountries?.map((country) => (
 					<Card
-						key={country.code}
-						name={language === "en" ? country.name : country.esName}
-						capital={country.capital}
-						image={country.flag}
-						alt={country.altImg}
+						key={country?.code}
+						name={language === "en" ? country?.name : country?.esName}
+						capital={country?.capital}
+						image={country?.flag}
+						alt={country?.altImg}
 						onButtonClick={() => saveCountry(country)}
 					/>
 				))}
