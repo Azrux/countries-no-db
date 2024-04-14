@@ -32,23 +32,18 @@ const SortAndFilters: FC<SortAndFiltersProps> = ({
 	) => {
 		setCurrentSort(sortType);
 
-		if (!sortType) {
-			setFilteredCountries(
-				// @ts-ignore
-				filter
-					? search
-						? currentSearchedCountries
-						: currentFilteredCountries
-					: countries,
-			);
-			setCountriesChanged(true);
-		} else {
-			const item = filter
-				? search
-					? currentSearchedCountries
-					: currentFilteredCountries
+		const item = filter
+			? search
+				? currentSearchedCountries
+				: currentFilteredCountries
+			: search
+				? currentSearchedCountries
 				: countries;
 
+		if (!sortType) {
+			item && setFilteredCountries(item);
+			setCountriesChanged(true);
+		} else {
 			const sortedCountries =
 				item &&
 				([...item]?.sort((a, b) => {
