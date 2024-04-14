@@ -11,38 +11,33 @@ const SortAndFilters: FC<SortAndFiltersProps> = ({
 }) => {
 	const { translate, language } = useLanguage();
 
-	const orderNameAZ = () => {
-		const sortedCountries = countries?.sort((a, b) =>
-			language === "en"
-				? a.name.localeCompare(b.name)
-				: a.esName.localeCompare(b.esName),
-		);
-		setCountries(sortedCountries);
-		setCountriesChanged(true);
-	};
+	const SortCountries = (sortType: string) => {
+		const initialCountries = countries;
 
-	const orderNameZA = () => {
-		const sortedCountries = countries?.sort((a, b) =>
-			language === "en"
-				? b.name.localeCompare(a.name)
-				: b.esName.localeCompare(a.esName),
-		);
-		setCountries(sortedCountries);
-		setCountriesChanged(true);
-	};
+		if (!sortType) {
+			setCountries(initialCountries);
+			setCountriesChanged(true);
+		}
 
-	const orderCapitalAZ = () => {
-		const sortedCountries = countries?.sort((a, b) =>
-			a.capital?.localeCompare(b.capital),
-		);
-		setCountries(sortedCountries);
-		setCountriesChanged(true);
-	};
+		const sortedCountries = countries?.sort((a, b) => {
+			switch (sortType) {
+				case "nameAZ":
+					return language === "en"
+						? a.name.localeCompare(b.name)
+						: a.esName.localeCompare(b.esName);
+				case "nameZA":
+					return language === "en"
+						? b.name.localeCompare(a.name)
+						: b.esName.localeCompare(a.esName);
+				case "capitalAZ":
+					return a.capital?.localeCompare(b.capital);
+				case "capitalZA":
+					return b.capital?.localeCompare(a.capital);
+				default:
+					return 0;
+			}
+		});
 
-	const orderCapitalZA = () => {
-		const sortedCountries = countries?.sort((a, b) =>
-			b.capital?.localeCompare(a.capital),
-		);
 		setCountries(sortedCountries);
 		setCountriesChanged(true);
 	};
@@ -75,12 +70,12 @@ const SortAndFilters: FC<SortAndFiltersProps> = ({
 					label={translate("filters.sortLabel", "Sort by")}
 					value="name"
 					color="danger"
+					onChange={(e) => SortCountries(e.target.value)}
 				>
 					<SelectItem
 						textValue={`${translate("filters.name", "Name")} AZ`}
 						key="nameAZ"
 						value="nameAZ"
-						onClick={orderNameAZ}
 						hideSelectedIcon
 					>
 						<div className="flex items-center justify-between">
@@ -94,7 +89,6 @@ const SortAndFilters: FC<SortAndFiltersProps> = ({
 						textValue={`${translate("filters.name", "Name")} ZA`}
 						key="nameZA"
 						value="nameZA"
-						onClick={orderNameZA}
 						hideSelectedIcon
 					>
 						<div className="flex items-center justify-between">
@@ -108,7 +102,6 @@ const SortAndFilters: FC<SortAndFiltersProps> = ({
 						textValue="capital A-Z"
 						key="capitalAZ"
 						value="capitalAZ"
-						onClick={orderCapitalAZ}
 						hideSelectedIcon
 					>
 						<div className="flex items-center justify-between">
@@ -122,7 +115,6 @@ const SortAndFilters: FC<SortAndFiltersProps> = ({
 						textValue="capital Z-A"
 						key="capitalZA"
 						value="capitalZA"
-						onClick={orderCapitalZA}
 						hideSelectedIcon
 					>
 						<div className="flex items-center justify-between">
