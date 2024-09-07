@@ -2,6 +2,8 @@
 
 This web application allows users to explore countries from around the world. It leverages data from the [Rest Countries API](https://restcountries.com/) to fetch country information and display it in an intuitive interface.
 
+[Click to see the live version](https://countries-no-db.onrender.com/)
+
 ## Features
 
 - **Country Data**: Fetches country data from the Rest Countries API.
