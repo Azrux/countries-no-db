@@ -4,8 +4,8 @@ export type CountriesType = {
 	code: string;
 	flag: string;
 	altImg: string;
-	population: string;
+	population: number;
 	continents: string[];
-	languages: string[];
+	languages: Record<string, string>;
 	capital: string;
 };

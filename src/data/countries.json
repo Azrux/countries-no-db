@@ -1,0 +1,3913 @@
+[
+	{
+		"name": "Afghanistan",
+		"esName": "Afganistán",
+		"code": "AFG",
+		"flag": "https://flagcdn.com/af.svg",
+		"altImg": "Flag of Afghanistan",
+		"population": 37172386,
+		"continents": [
+			"Asia"
+		],
+		"languages": {
+			"prs": "Dari",
+			"pus": "Pashto",
+			"tuk": "Turkmen"
+		},
+		"capital": "Kabul"
+	},
+	{
+		"name": "Åland Islands",
+		"esName": "Alandia",
+		"code": "ALA",
+		"flag": "https://flagcdn.com/ax.svg",
+		"altImg": "Flag of Åland Islands",
+		"population": 30000,
+		"continents": [
+			"Europe"
+		],
+		"languages": {
+			"swe": "Swedish"
+		},
+		"capital": "Mariehamn"
+	},
+	{
+		"name": "Albania",
+		"esName": "Albania",
+		"code": "ALB",
+		"flag": "https://flagcdn.com/al.svg",
+		"altImg": "Flag of Albania",
+		"population": 2866376,
+		"continents": [
+			"Europe"
+		],
+		"languages": {
+			"sqi": "Albanian"
+		},
+		"capital": "Tirana"
+	},
+	{
+		"name": "Algeria",
+		"esName": "Argelia",
+		"code": "DZA",
+		"flag": "https://flagcdn.com/dz.svg",
+		"altImg": "Flag of Algeria",
+		"population": 42228429,
+		"continents": [
+			"Africa"
+		],
+		"languages": {
+			"ara": "Arabic"
+		},
+		"capital": "Algiers"
+	},
+	{
+		"name": "American Samoa",
+		"esName": "Samoa Americana",
+		"code": "ASM",
+		"flag": "https://flagcdn.com/as.svg",
+		"altImg": "Flag of American Samoa",
+		"population": 55465,
+		"continents": [
+			"Oceania"
+		],
+		"languages": {
+			"eng": "English",
+			"smo": "Samoan"
+		},
+		"capital": "Pago Pago"
+	},
+	{
+		"name": "Andorra",
+		"esName": "Andorra",
+		"code": "AND",
+		"flag": "https://flagcdn.com/ad.svg",
+		"altImg": "Flag of Andorra",
+		"population": 77006,
+		"continents": [
+			"Europe"
+		],
+		"languages": {
+			"cat": "Catalan"
+		},
+		"capital": "Andorra la Vella"
+	},
+	{
+		"name": "Angola",
+		"esName": "Angola",
+		"code": "AGO",
+		"flag": "https://flagcdn.com/ao.svg",
+		"altImg": "Flag of Angola",
+		"population": 30809762,
+		"continents": [
+			"Africa"
+		],
+		"languages": {
+			"por": "Portuguese"
+		},
+		"capital": "Luanda"
+	},
+	{
+		"name": "Anguilla",
+		"esName": "Anguilla",
+		"code": "AIA",
+		"flag": "https://flagcdn.com/ai.svg",
+		"altImg": "Flag of Anguilla",
+		"population": 15094,
+		"continents": [
+			"North America"
+		],
+		"languages": {
+			"eng": "English"
+		},
+		"capital": "The Valley"
+	},
+	{
+		"name": "Antarctica",
+		"esName": "Antártida",
+		"code": "ATA",
+		"flag": "https://flagcdn.com/aq.svg",
+		"altImg": "Flag of Antarctica",
+		"population": 1106,
+		"continents": [
+			"Antarctica"
+		],
+		"languages": {},
+		"capital": ""
+	},
+	{
+		"name": "Antigua and Barbuda",
+		"esName": "Antigua y Barbuda",
+		"code": "ATG",
+		"flag": "https://flagcdn.com/ag.svg",
+		"altImg": "Flag of Antigua and Barbuda",
+		"population": 96286,
+		"continents": [
+			"North America"
+		],
+		"languages": {
+			"eng": "English"
+		},
+		"capital": "Saint John's"
+	},
+	{
+		"name": "Argentina",
+		"esName": "Argentina",
+		"code": "ARG",
+		"flag": "https://flagcdn.com/ar.svg",
+		"altImg": "Flag of Argentina",
+		"population": 44494502,
+		"continents": [
+			"South America"
+		],
+		"languages": {
+			"grn": "Guaraní",
+			"spa": "Spanish"
+		},
+		"capital": "Buenos Aires"
+	},
+	{
+		"name": "Armenia",
+		"esName": "Armenia",
+		"code": "ARM",
+		"flag": "https://flagcdn.com/am.svg",
+		"altImg": "Flag of Armenia",
+		"population": 2951776,
+		"continents": [
+			"Asia"
+		],
+		"languages": {
+			"hye": "Armenian"
+		},
+		"capital": "Yerevan"
+	},
+	{
+		"name": "Aruba",
+		"esName": "Aruba",
+		"code": "ABW",
+		"flag": "https://flagcdn.com/aw.svg",
+		"altImg": "Flag of Aruba",
+		"population": 105845,
+		"continents": [
+			"North America"
+		],
+		"languages": {
+			"nld": "Dutch",
+			"pap": "Papiamento"
+		},
+		"capital": "Oranjestad"
+	},
+	{
+		"name": "Australia",
+		"esName": "Australia",
+		"code": "AUS",
+		"flag": "https://flagcdn.com/au.svg",
+		"altImg": "Flag of Australia",
+		"population": 24982688,
+		"continents": [
+			"Oceania"
+		],
+		"languages": {
+			"eng": "English"
+		},
+		"capital": "Canberra"
+	},
+	{
+		"name": "Austria",
+		"esName": "Austria",
+		"code": "AUT",
+		"flag": "https://flagcdn.com/at.svg",
+		"altImg": "Flag of Austria",
+		"population": 8840521,
+		"continents": [
+			"Europe"
+		],
+		"languages": {
+			"bar": "Austro-Bavarian German"
+		},
+		"capital": "Vienna"
+	},
+	{
+		"name": "Azerbaijan",
+		"esName": "Azerbaiyán",
+		"code": "AZE",
+		"flag": "https://flagcdn.com/az.svg",
+		"altImg": "Flag of Azerbaijan",
+		"population": 9939800,
+		"continents": [
+			"Asia"
+		],
+		"languages": {
+			"aze": "Azerbaijani",
+			"rus": "Russian"
+		},
+		"capital": "Baku"
+	},
+	{
+		"name": "Bahamas",
+		"esName": "Bahamas",
+		"code": "BHS",
+		"flag": "https://flagcdn.com/bs.svg",
+		"altImg": "Flag of Bahamas",
+		"population": 385640,
+		"continents": [
+			"North America"
+		],
+		"languages": {
+			"eng": "English"
+		},
+		"capital": "Nassau"
+	},
+	{
+		"name": "Bahrain",
+		"esName": "Bahrein",
+		"code": "BHR",
+		"flag": "https://flagcdn.com/bh.svg",
+		"altImg": "Flag of Bahrain",
+		"population": 1569439,
+		"continents": [
+			"Asia"
+		],
+		"languages": {
+			"ara": "Arabic"
+		},
+		"capital": "Manama"
+	},
+	{
+		"name": "Bangladesh",
+		"esName": "Bangladesh",
+		"code": "BGD",
+		"flag": "https://flagcdn.com/bd.svg",
+		"altImg": "Flag of Bangladesh",
+		"population": 161356039,
+		"continents": [
+			"Asia"
+		],
+		"languages": {
+			"ben": "Bengali"
+		},
+		"capital": "Dhaka"
+	},
+	{
+		"name": "Barbados",
+		"esName": "Barbados",
+		"code": "BRB",
+		"flag": "https://flagcdn.com/bb.svg",
+		"altImg": "Flag of Barbados",
+		"population": 286641,
+		"continents": [
+			"North America"
+		],
+		"languages": {
+			"eng": "English"
+		},
+		"capital": "Bridgetown"
+	},
+	{
+		"name": "Belarus",
+		"esName": "Bielorrusia",
+		"code": "BLR",
+		"flag": "https://flagcdn.com/by.svg",
+		"altImg": "Flag of Belarus",
+		"population": 9483499,
+		"continents": [
+			"Europe"
+		],
+		"languages": {
+			"bel": "Belarusian",
+			"rus": "Russian"
+		},
+		"capital": "Minsk"
+	},
+	{
+		"name": "Belgium",
+		"esName": "Bélgica",
+		"code": "BEL",
+		"flag": "https://flagcdn.com/be.svg",
+		"altImg": "Flag of Belgium",
+		"population": 11433256,
+		"continents": [
+			"Europe"
+		],
+		"languages": {
+			"deu": "German",
+			"fra": "French",
+			"nld": "Dutch"
+		},
+		"capital": "Brussels"
+	},
+	{
+		"name": "Belize",
+		"esName": "Belice",
+		"code": "BLZ",
+		"flag": "https://flagcdn.com/bz.svg",
+		"altImg": "Flag of Belize",
+		"population": 383071,
+		"continents": [
+			"North America"
+		],
+		"languages": {
+			"bjz": "Belizean Creole",
+			"eng": "English",
+			"spa": "Spanish"
+		},
+		"capital": "Belmopan"
+	},
+	{
+		"name": "Benin",
+		"esName": "Benín",
+		"code": "BEN",
+		"flag": "https://flagcdn.com/bj.svg",
+		"altImg": "Flag of Benin",
+		"population": 11485048,
+		"continents": [
+			"Africa"
+		],
+		"languages": {
+			"fra": "French"
+		},
+		"capital": "Porto-Novo"
+	},
+	{
+		"name": "Bermuda",
+		"esName": "Bermudas",
+		"code": "BMU",
+		"flag": "https://flagcdn.com/bm.svg",
+		"altImg": "Flag of Bermuda",
+		"population": 63973,
+		"continents": [
+			"North America"
+		],
+		"languages": {
+			"eng": "English"
+		},
+		"capital": "Hamilton"
+	},
+	{
+		"name": "Bhutan",
+		"esName": "Bután",
+		"code": "BTN",
+		"flag": "https://flagcdn.com/bt.svg",
+		"altImg": "Flag of Bhutan",
+		"population": 754394,
+		"continents": [
+			"Asia"
+		],
+		"languages": {
+			"dzo": "Dzongkha"
+		},
+		"capital": "Thimphu"
+	},
+	{
+		"name": "Bolivia",
+		"esName": "Bolivia",
+		"code": "BOL",
+		"flag": "https://flagcdn.com/bo.svg",
+		"altImg": "Flag of Bolivia",
+		"population": 11353142,
+		"continents": [
+			"South America"
+		],
+		"languages": {
+			"aym": "Aymara",
+			"grn": "Guaraní",
+			"que": "Quechua",
+			"spa": "Spanish"
+		},
+		"capital": "Sucre"
+	},
+	{
+		"name": "Bosnia and Herzegovina",
+		"esName": "Bosnia y Herzegovina",
+		"code": "BIH",
+		"flag": "https://flagcdn.com/ba.svg",
+		"altImg": "Flag of Bosnia and Herzegovina",
+		"population": 3323929,
+		"continents": [
+			"Europe"
+		],
+		"languages": {
+			"bos": "Bosnian",
+			"hrv": "Croatian",
+			"srp": "Serbian"
+		},
+		"capital": "Sarajevo"
+	},
+	{
+		"name": "Botswana",
+		"esName": "Botswana",
+		"code": "BWA",
+		"flag": "https://flagcdn.com/bw.svg",
+		"altImg": "Flag of Botswana",
+		"population": 2254126,
+		"continents": [
+			"Africa"
+		],
+		"languages": {
+			"eng": "English",
+			"tsn": "Tswana"
+		},
+		"capital": "Gaborone"
+	},
+	{
+		"name": "Bouvet Island",
+		"esName": "Isla Bouvet",
+		"code": "BVT",
+		"flag": "https://flagcdn.com/bv.svg",
+		"altImg": "Flag of Bouvet Island",
+		"population": 0,
+		"continents": [
+			"Antarctica"
+		],
+		"languages": {
+			"nor": "Norwegian"
+		},
+		"capital": ""
+	},
+	{
+		"name": "Brazil",
+		"esName": "Brasil",
+		"code": "BRA",
+		"flag": "https://flagcdn.com/br.svg",
+		"altImg": "Flag of Brazil",
+		"population": 209469333,
+		"continents": [
+			"South America"
+		],
+		"languages": {
+			"por": "Portuguese"
+		},
+		"capital": "Brasília"
+	},
+	{
+		"name": "British Indian Ocean Territory",
+		"esName": "Territorio Británico del Océano Índico",
+		"code": "IOT",
+		"flag": "https://flagcdn.com/io.svg",
+		"altImg": "Flag of British Indian Ocean Territory",
+		"population": 0,
+		"continents": [
+			"Africa"
+		],
+		"languages": {
+			"eng": "English"
+		},
+		"capital": "Diego Garcia"
+	},
+	{
+		"name": "British Virgin Islands",
+		"esName": "Islas Vírgenes del Reino Unido",
+		"code": "VGB",
+		"flag": "https://flagcdn.com/vg.svg",
+		"altImg": "Flag of British Virgin Islands",
+		"population": 29802,
+		"continents": [
+			"North America"
+		],
+		"languages": {
+			"eng": "English"
+		},
+		"capital": "Road Town"
+	},
+	{
+		"name": "Brunei",
+		"esName": "Brunei",
+		"code": "BRN",
+		"flag": "https://flagcdn.com/bn.svg",
+		"altImg": "Flag of Brunei",
+		"population": 428962,
+		"continents": [
+			"Asia"
+		],
+		"languages": {
+			"msa": "Malay"
+		},
+		"capital": "Bandar Seri Begawan"
+	},
+	{
+		"name": "Bulgaria",
+		"esName": "Bulgaria",
+		"code": "BGR",
+		"flag": "https://flagcdn.com/bg.svg",
+		"altImg": "Flag of Bulgaria",
+		"population": 7025037,
+		"continents": [
+			"Europe"
+		],
+		"languages": {
+			"bul": "Bulgarian"
+		},
+		"capital": "Sofia"
+	},
+	{
+		"name": "Burkina Faso",
+		"esName": "Burkina Faso",
+		"code": "BFA",
+		"flag": "https://flagcdn.com/bf.svg",
+		"altImg": "Flag of Burkina Faso",
+		"population": 19751535,
+		"continents": [
+			"Africa"
+		],
+		"languages": {
+			"fra": "French"
+		},
+		"capital": "Ouagadougou"
+	},
+	{
+		"name": "Burundi",
+		"esName": "Burundi",
+		"code": "BDI",
+		"flag": "https://flagcdn.com/bi.svg",
+		"altImg": "Flag of Burundi",
+		"population": 11175378,
+		"continents": [
+			"Africa"
+		],
+		"languages": {
+			"fra": "French",
+			"run": "Kirundi"
+		},
+		"capital": "Gitega"
+	},
+	{
+		"name": "Cambodia",
+		"esName": "Camboya",
+		"code": "KHM",
+		"flag": "https://flagcdn.com/kh.svg",
+		"altImg": "Flag of Cambodia",
+		"population": 16249798,
+		"continents": [
+			"Asia"
+		],
+		"languages": {
+			"khm": "Khmer"
+		},
+		"capital": "Phnom Penh"
+	},
+	{
+		"name": "Cameroon",
+		"esName": "Camerún",
+		"code": "CMR",
+		"flag": "https://flagcdn.com/cm.svg",
+		"altImg": "Flag of Cameroon",
+		"population": 25216237,
+		"continents": [
+			"Africa"
+		],
+		"languages": {
+			"eng": "English",
+			"fra": "French"
+		},
+		"capital": "Yaoundé"
+	},
+	{
+		"name": "Canada",
+		"esName": "Canadá",
+		"code": "CAN",
+		"flag": "https://flagcdn.com/ca.svg",
+		"altImg": "Flag of Canada",
+		"population": 37057765,
+		"continents": [
+			"North America"
+		],
+		"languages": {
+			"eng": "English",
+			"fra": "French"
+		},
+		"capital": "Ottawa"
+	},
+	{
+		"name": "Cape Verde",
+		"esName": "Cabo Verde",
+		"code": "CPV",
+		"flag": "https://flagcdn.com/cv.svg",
+		"altImg": "Flag of Cape Verde",
+		"population": 555987,
+		"continents": [
+			"Africa"
+		],
+		"languages": {
+			"por": "Portuguese"
+		},
+		"capital": "Praia"
+	},
+	{
+		"name": "Caribbean Netherlands",
+		"esName": "Caribe Neerlandés",
+		"code": "BES",
+		"flag": "https://flagcdn.com/bq.svg",
+		"altImg": "Flag of Caribbean Netherlands",
+		"population": 27000,
+		"continents": [
+			"North America"
+		],
+		"languages": {
+			"eng": "English",
+			"nld": "Dutch",
+			"pap": "Papiamento"
+		},
+		"capital": "Kralendijk"
+	},
+	{
+		"name": "Cayman Islands",
+		"esName": "Islas Caimán",
+		"code": "CYM",
+		"flag": "https://flagcdn.com/ky.svg",
+		"altImg": "Flag of Cayman Islands",
+		"population": 64174,
+		"continents": [
+			"North America"
+		],
+		"languages": {
+			"eng": "English"
+		},
+		"capital": "George Town"
+	},
+	{
+		"name": "Central African Republic",
+		"esName": "República Centroafricana",
+		"code": "CAF",
+		"flag": "https://flagcdn.com/cf.svg",
+		"altImg": "Flag of Central African Republic",
+		"population": 4666377,
+		"continents": [
+			"Africa"
+		],
+		"languages": {
+			"fra": "French",
+			"sag": "Sango"
+		},
+		"capital": "Bangui"
+	},
+	{
+		"name": "Chad",
+		"esName": "Chad",
+		"code": "TCD",
+		"flag": "https://flagcdn.com/td.svg",
+		"altImg": "Flag of Chad",
+		"population": 15477751,
+		"continents": [
+			"Africa"
+		],
+		"languages": {
+			"ara": "Arabic",
+			"fra": "French"
+		},
+		"capital": "N'Djamena"
+	},
+	{
+		"name": "Chile",
+		"esName": "Chile",
+		"code": "CHL",
+		"flag": "https://flagcdn.com/cl.svg",
+		"altImg": "Flag of Chile",
+		"population": 18729160,
+		"continents": [
+			"South America"
+		],
+		"languages": {
+			"spa": "Spanish"
+		},
+		"capital": "Santiago"
+	},
+	{
+		"name": "China",
+		"esName": "China",
+		"code": "CHN",
+		"flag": "https://flagcdn.com/cn.svg",
+		"altImg": "Flag of China",
+		"population": 1392730000,
+		"continents": [
+			"Asia"
+		],
+		"languages": {
+			"zho": "Chinese"
+		},
+		"capital": "Beijing"
+	},
+	{
+		"name": "Christmas Island",
+		"esName": "Isla de Navidad",
+		"code": "CXR",
+		"flag": "https://flagcdn.com/cx.svg",
+		"altImg": "Flag of Christmas Island",
+		"population": 1402,
+		"continents": [
+			"Oceania"
+		],
+		"languages": {
+			"eng": "English"
+		},
+		"capital": "Flying Fish Cove"
+	},
+	{
+		"name": "Cocos (Keeling) Islands",
+		"esName": "Islas Cocos o Islas Keeling",
+		"code": "CCK",
+		"flag": "https://flagcdn.com/cc.svg",
+		"altImg": "Flag of Cocos (Keeling) Islands",
+		"population": 596,
+		"continents": [
+			"Oceania"
+		],
+		"languages": {
+			"eng": "English"
+		},
+		"capital": "West Island"
+	},
+	{
+		"name": "Colombia",
+		"esName": "Colombia",
+		"code": "COL",
+		"flag": "https://flagcdn.com/co.svg",
+		"altImg": "Flag of Colombia",
+		"population": 49648685,
+		"continents": [
+			"South America"
+		],
+		"languages": {
+			"spa": "Spanish"
+		},
+		"capital": "Bogotá"
+	},
+	{
+		"name": "Comoros",
+		"esName": "Comoras",
+		"code": "COM",
+		"flag": "https://flagcdn.com/km.svg",
+		"altImg": "Flag of Comoros",
+		"population": 832322,
+		"continents": [
+			"Africa"
+		],
+		"languages": {
+			"ara": "Arabic",
+			"fra": "French",
+			"zdj": "Comorian"
+		},
+		"capital": "Moroni"
+	},
+	{
+		"name": "Congo",
+		"esName": "Congo",
+		"code": "COG",
+		"flag": "https://flagcdn.com/cg.svg",
+		"altImg": "Flag of Congo",
+		"population": 5244363,
+		"continents": [
+			"Africa"
+		],
+		"languages": {
+			"fra": "French",
+			"kon": "Kikongo",
+			"lin": "Lingala"
+		},
+		"capital": "Brazzaville"
+	},
+	{
+		"name": "Cook Islands",
+		"esName": "Islas Cook",
+		"code": "COK",
+		"flag": "https://flagcdn.com/ck.svg",
+		"altImg": "Flag of Cook Islands",
+		"population": 17379,
+		"continents": [
+			"Oceania"
+		],
+		"languages": {
+			"eng": "English",
+			"rar": "Cook Islands Māori"
+		},
+		"capital": "Avarua"
+	},
+	{
+		"name": "Costa Rica",
+		"esName": "Costa Rica",
+		"code": "CRI",
+		"flag": "https://flagcdn.com/cr.svg",
+		"altImg": "Flag of Costa Rica",
+		"population": 4999441,
+		"continents": [
+			"North America"
+		],
+		"languages": {
+			"spa": "Spanish"
+		},
+		"capital": "San José"
+	},
+	{
+		"name": "Croatia",
+		"esName": "Croacia",
+		"code": "HRV",
+		"flag": "https://flagcdn.com/hr.svg",
+		"altImg": "Flag of Croatia",
+		"population": 4087843,
+		"continents": [
+			"Europe"
+		],
+		"languages": {
+			"hrv": "Croatian"
+		},
+		"capital": "Zagreb"
+	},
+	{
+		"name": "Cuba",
+		"esName": "Cuba",
+		"code": "CUB",
+		"flag": "https://flagcdn.com/cu.svg",
+		"altImg": "Flag of Cuba",
+		"population": 11338138,
+		"continents": [
+			"North America"
+		],
+		"languages": {
+			"spa": "Spanish"
+		},
+		"capital": "Havana"
+	},
+	{
+		"name": "Curaçao",
+		"esName": "Curazao",
+		"code": "CUW",
+		"flag": "https://flagcdn.com/cw.svg",
+		"altImg": "Flag of Curaçao",
+		"population": 155000,
+		"continents": [
+			"North America"
+		],
+		"languages": {
+			"eng": "English",
+			"nld": "Dutch",
+			"pap": "Papiamento"
+		},
+		"capital": "Willemstad"
+	},
+	{
+		"name": "Cyprus",
+		"esName": "Chipre",
+		"code": "CYP",
+		"flag": "https://flagcdn.com/cy.svg",
+		"altImg": "Flag of Cyprus",
+		"population": 1189265,
+		"continents": [
+			"Asia"
+		],
+		"languages": {
+			"ell": "Greek",
+			"tur": "Turkish"
+		},
+		"capital": "Nicosia"
+	},
+	{
+		"name": "Czechia",
+		"esName": "Chequia",
+		"code": "CZE",
+		"flag": "https://flagcdn.com/cz.svg",
+		"altImg": "Flag of Czechia",
+		"population": 10629928,
+		"continents": [
+			"Europe"
+		],
+		"languages": {
+			"ces": "Czech",
+			"slk": "Slovak"
+		},
+		"capital": "Prague"
+	},
+	{
+		"name": "Denmark",
+		"esName": "Dinamarca",
+		"code": "DNK",
+		"flag": "https://flagcdn.com/dk.svg",
+		"altImg": "Flag of Denmark",
+		"population": 5793636,
+		"continents": [
+			"Europe"
+		],
+		"languages": {
+			"dan": "Danish"
+		},
+		"capital": "Copenhagen"
+	},
+	{
+		"name": "Djibouti",
+		"esName": "Djibouti",
+		"code": "DJI",
+		"flag": "https://flagcdn.com/dj.svg",
+		"altImg": "Flag of Djibouti",
+		"population": 958920,
+		"continents": [
+			"Africa"
+		],
+		"languages": {
+			"ara": "Arabic",
+			"fra": "French"
+		},
+		"capital": "Djibouti"
+	},
+	{
+		"name": "Dominica",
+		"esName": "Dominica",
+		"code": "DMA",
+		"flag": "https://flagcdn.com/dm.svg",
+		"altImg": "Flag of Dominica",
+		"population": 71625,
+		"continents": [
+			"North America"
+		],
+		"languages": {
+			"eng": "English"
+		},
+		"capital": "Roseau"
+	},
+	{
+		"name": "Dominican Republic",
+		"esName": "República Dominicana",
+		"code": "DOM",
+		"flag": "https://flagcdn.com/do.svg",
+		"altImg": "Flag of Dominican Republic",
+		"population": 10627165,
+		"continents": [
+			"North America"
+		],
+		"languages": {
+			"spa": "Spanish"
+		},
+		"capital": "Santo Domingo"
+	},
+	{
+		"name": "DR Congo",
+		"esName": "Congo (Rep. Dem.)",
+		"code": "COD",
+		"flag": "https://flagcdn.com/cd.svg",
+		"altImg": "Flag of DR Congo",
+		"population": 84068091,
+		"continents": [
+			"Africa"
+		],
+		"languages": {
+			"fra": "French",
+			"kon": "Kikongo",
+			"lin": "Lingala",
+			"lua": "Tshiluba",
+			"swa": "Swahili"
+		},
+		"capital": "Kinshasa"
+	},
+	{
+		"name": "Ecuador",
+		"esName": "Ecuador",
+		"code": "ECU",
+		"flag": "https://flagcdn.com/ec.svg",
+		"altImg": "Flag of Ecuador",
+		"population": 17084357,
+		"continents": [
+			"South America"
+		],
+		"languages": {
+			"spa": "Spanish"
+		},
+		"capital": "Quito"
+	},
+	{
+		"name": "Egypt",
+		"esName": "Egipto",
+		"code": "EGY",
+		"flag": "https://flagcdn.com/eg.svg",
+		"altImg": "Flag of Egypt",
+		"population": 98423595,
+		"continents": [
+			"Africa"
+		],
+		"languages": {
+			"ara": "Arabic"
+		},
+		"capital": "Cairo"
+	},
+	{
+		"name": "El Salvador",
+		"esName": "El Salvador",
+		"code": "SLV",
+		"flag": "https://flagcdn.com/sv.svg",
+		"altImg": "Flag of El Salvador",
+		"population": 6420744,
+		"continents": [
+			"North America"
+		],
+		"languages": {
+			"spa": "Spanish"
+		},
+		"capital": "San Salvador"
+	},
+	{
+		"name": "Equatorial Guinea",
+		"esName": "Guinea Ecuatorial",
+		"code": "GNQ",
+		"flag": "https://flagcdn.com/gq.svg",
+		"altImg": "Flag of Equatorial Guinea",
+		"population": 1308974,
+		"continents": [
+			"Africa"
+		],
+		"languages": {
+			"fra": "French",
+			"por": "Portuguese",
+			"spa": "Spanish"
+		},
+		"capital": "Malabo"
+	},
+	{
+		"name": "Eritrea",
+		"esName": "Eritrea",
+		"code": "ERI",
+		"flag": "https://flagcdn.com/er.svg",
+		"altImg": "Flag of Eritrea",
+		"population": 6213972,
+		"continents": [
+			"Africa"
+		],
+		"languages": {
+			"ara": "Arabic",
+			"eng": "English",
+			"tir": "Tigrinya"
+		},
+		"capital": "Asmara"
+	},
+	{
+		"name": "Estonia",
+		"esName": "Estonia",
+		"code": "EST",
+		"flag": "https://flagcdn.com/ee.svg",
+		"altImg": "Flag of Estonia",
+		"population": 1321977,
+		"continents": [
+			"Europe"
+		],
+		"languages": {
+			"est": "Estonian"
+		},
+		"capital": "Tallinn"
+	},
+	{
+		"name": "Eswatini",
+		"esName": "Esuatini",
+		"code": "SWZ",
+		"flag": "https://flagcdn.com/sz.svg",
+		"altImg": "Flag of Eswatini",
+		"population": 1136191,
+		"continents": [
+			"Africa"
+		],
+		"languages": {
+			"eng": "English",
+			"ssw": "Swazi"
+		},
+		"capital": "Lobamba"
+	},
+	{
+		"name": "Ethiopia",
+		"esName": "Etiopía",
+		"code": "ETH",
+		"flag": "https://flagcdn.com/et.svg",
+		"altImg": "Flag of Ethiopia",
+		"population": 109224559,
+		"continents": [
+			"Africa"
+		],
+		"languages": {
+			"amh": "Amharic"
+		},
+		"capital": "Addis Ababa"
+	},
+	{
+		"name": "Falkland Islands",
+		"esName": "Islas Malvinas",
+		"code": "FLK",
+		"flag": "https://flagcdn.com/fk.svg",
+		"altImg": "Flag of Falkland Islands",
+		"population": 2840,
+		"continents": [
+			"South America"
+		],
+		"languages": {
+			"eng": "English"
+		},
+		"capital": "Stanley"
+	},
+	{
+		"name": "Faroe Islands",
+		"esName": "Islas Faroe",
+		"code": "FRO",
+		"flag": "https://flagcdn.com/fo.svg",
+		"altImg": "Flag of Faroe Islands",
+		"population": 48497,
+		"continents": [
+			"Europe"
+		],
+		"languages": {
+			"dan": "Danish",
+			"fao": "Faroese"
+		},
+		"capital": "Tórshavn"
+	},
+	{
+		"name": "Fiji",
+		"esName": "Fiyi",
+		"code": "FJI",
+		"flag": "https://flagcdn.com/fj.svg",
+		"altImg": "Flag of Fiji",
+		"population": 883483,
+		"continents": [
+			"Oceania"
+		],
+		"languages": {
+			"eng": "English",
+			"fij": "Fijian",
+			"hif": "Fiji Hindi"
+		},
+		"capital": "Suva"
+	},
+	{
+		"name": "Finland",
+		"esName": "Finlandia",
+		"code": "FIN",
+		"flag": "https://flagcdn.com/fi.svg",
+		"altImg": "Flag of Finland",
+		"population": 5515525,
+		"continents": [
+			"Europe"
+		],
+		"languages": {
+			"fin": "Finnish",
+			"swe": "Swedish"
+		},
+		"capital": "Helsinki"
+	},
+	{
+		"name": "France",
+		"esName": "Francia",
+		"code": "FRA",
+		"flag": "https://flagcdn.com/fr.svg",
+		"altImg": "Flag of France",
+		"population": 66977107,
+		"continents": [
+			"Europe"
+		],
+		"languages": {
+			"fra": "French"
+		},
+		"capital": "Paris"
+	},
+	{
+		"name": "French Guiana",
+		"esName": "Guayana Francesa",
+		"code": "GUF",
+		"flag": "https://flagcdn.com/gf.svg",
+		"altImg": "Flag of French Guiana",
+		"population": 290691,
+		"continents": [
+			"South America"
+		],
+		"languages": {
+			"fra": "French"
+		},
+		"capital": "Cayenne"
+	},
+	{
+		"name": "French Polynesia",
+		"esName": "Polinesia Francesa",
+		"code": "PYF",
+		"flag": "https://flagcdn.com/pf.svg",
+		"altImg": "Flag of French Polynesia",
+		"population": 277679,
+		"continents": [
+			"Oceania"
+		],
+		"languages": {
+			"fra": "French"
+		},
+		"capital": "Papeetē"
+	},
+	{
+		"name": "French Southern and Antarctic Lands",
+		"esName": "Tierras Australes y Antárticas Francesas",
+		"code": "ATF",
+		"flag": "https://flagcdn.com/tf.svg",
+		"altImg": "Flag of French Southern and Antarctic Lands",
+		"population": 0,
+		"continents": [
+			"Antarctica"
+		],
+		"languages": {
+			"fra": "French"
+		},
+		"capital": "Port-aux-Français"
+	},
+	{
+		"name": "Gabon",
+		"esName": "Gabón",
+		"code": "GAB",
+		"flag": "https://flagcdn.com/ga.svg",
+		"altImg": "Flag of Gabon",
+		"population": 2119275,
+		"continents": [
+			"Africa"
+		],
+		"languages": {
+			"fra": "French"
+		},
+		"capital": "Libreville"
+	},
+	{
+		"name": "Gambia",
+		"esName": "Gambia",
+		"code": "GMB",
+		"flag": "https://flagcdn.com/gm.svg",
+		"altImg": "Flag of Gambia",
+		"population": 2280102,
+		"continents": [
+			"Africa"
+		],
+		"languages": {
+			"eng": "English"
+		},
+		"capital": "Banjul"
+	},
+	{
+		"name": "Georgia",
+		"esName": "Georgia",
+		"code": "GEO",
+		"flag": "https://flagcdn.com/ge.svg",
+		"altImg": "Flag of Georgia",
+		"population": 3726549,
+		"continents": [
+			"Asia"
+		],
+		"languages": {
+			"kat": "Georgian"
+		},
+		"capital": "Tbilisi"
+	},
+	{
+		"name": "Germany",
+		"esName": "Alemania",
+		"code": "DEU",
+		"flag": "https://flagcdn.com/de.svg",
+		"altImg": "Flag of Germany",
+		"population": 82905782,
+		"continents": [
+			"Europe"
+		],
+		"languages": {
+			"deu": "German"
+		},
+		"capital": "Berlin"
+	},
+	{
+		"name": "Ghana",
+		"esName": "Ghana",
+		"code": "GHA",
+		"flag": "https://flagcdn.com/gh.svg",
+		"altImg": "Flag of Ghana",
+		"population": 29767108,
+		"continents": [
+			"Africa"
+		],
+		"languages": {
+			"eng": "English"
+		},
+		"capital": "Accra"
+	},
+	{
+		"name": "Gibraltar",
+		"esName": "Gibraltar",
+		"code": "GIB",
+		"flag": "https://flagcdn.com/gi.svg",
+		"altImg": "Flag of Gibraltar",
+		"population": 33718,
+		"continents": [
+			"Europe"
+		],
+		"languages": {
+			"eng": "English"
+		},
+		"capital": "Gibraltar"
+	},
+	{
+		"name": "Greece",
+		"esName": "Grecia",
+		"code": "GRC",
+		"flag": "https://flagcdn.com/gr.svg",
+		"altImg": "Flag of Greece",
+		"population": 10731726,
+		"continents": [
+			"Europe"
+		],
+		"languages": {
+			"ell": "Greek"
+		},
+		"capital": "Athens"
+	},
+	{
+		"name": "Greenland",
+		"esName": "Groenlandia",
+		"code": "GRL",
+		"flag": "https://flagcdn.com/gl.svg",
+		"altImg": "Flag of Greenland",
+		"population": 56025,
+		"continents": [
+			"North America"
+		],
+		"languages": {
+			"kal": "Greenlandic"
+		},
+		"capital": "Nuuk"
+	},
+	{
+		"name": "Grenada",
+		"esName": "Grenada",
+		"code": "GRD",
+		"flag": "https://flagcdn.com/gd.svg",
+		"altImg": "Flag of Grenada",
+		"population": 111454,
+		"continents": [
+			"North America"
+		],
+		"languages": {
+			"eng": "English"
+		},
+		"capital": "St. George's"
+	},
+	{
+		"name": "Guadeloupe",
+		"esName": "Guadalupe",
+		"code": "GLP",
+		"flag": "https://flagcdn.com/gp.svg",
+		"altImg": "Flag of Guadeloupe",
+		"population": 395700,
+		"continents": [
+			"North America"
+		],
+		"languages": {
+			"fra": "French"
+		},
+		"capital": "Basse-Terre"
+	},
+	{
+		"name": "Guam",
+		"esName": "Guam",
+		"code": "GUM",
+		"flag": "https://flagcdn.com/gu.svg",
+		"altImg": "Flag of Guam",
+		"population": 165768,
+		"continents": [
+			"Oceania"
+		],
+		"languages": {
+			"cha": "Chamorro",
+			"eng": "English",
+			"spa": "Spanish"
+		},
+		"capital": "Hagåtña"
+	},
+	{
+		"name": "Guatemala",
+		"esName": "Guatemala",
+		"code": "GTM",
+		"flag": "https://flagcdn.com/gt.svg",
+		"altImg": "Flag of Guatemala",
+		"population": 17247807,
+		"continents": [
+			"North America"
+		],
+		"languages": {
+			"spa": "Spanish"
+		},
+		"capital": "Guatemala City"
+	},
+	{
+		"name": "Guernsey",
+		"esName": "Guernsey",
+		"code": "GGY",
+		"flag": "https://flagcdn.com/gg.svg",
+		"altImg": "Flag of Guernsey",
+		"population": 63000,
+		"continents": [
+			"Europe"
+		],
+		"languages": {
+			"eng": "English",
+			"fra": "French",
+			"nfr": "Guernésiais"
+		},
+		"capital": "St. Peter Port"
+	},
+	{
+		"name": "Guinea",
+		"esName": "Guinea",
+		"code": "GIN",
+		"flag": "https://flagcdn.com/gn.svg",
+		"altImg": "Flag of Guinea",
+		"population": 12414318,
+		"continents": [
+			"Africa"
+		],
+		"languages": {
+			"fra": "French"
+		},
+		"capital": "Conakry"
+	},
+	{
+		"name": "Guinea-Bissau",
+		"esName": "Guinea-Bisáu",
+		"code": "GNB",
+		"flag": "https://flagcdn.com/gw.svg",
+		"altImg": "Flag of Guinea-Bissau",
+		"population": 1874309,
+		"continents": [
+			"Africa"
+		],
+		"languages": {
+			"por": "Portuguese",
+			"pov": "Upper Guinea Creole"
+		},
+		"capital": "Bissau"
+	},
+	{
+		"name": "Guyana",
+		"esName": "Guyana",
+		"code": "GUY",
+		"flag": "https://flagcdn.com/gy.svg",
+		"altImg": "Flag of Guyana",
+		"population": 779004,
+		"continents": [
+			"South America"
+		],
+		"languages": {
+			"eng": "English"
+		},
+		"capital": "Georgetown"
+	},
+	{
+		"name": "Haiti",
+		"esName": "Haití",
+		"code": "HTI",
+		"flag": "https://flagcdn.com/ht.svg",
+		"altImg": "Flag of Haiti",
+		"population": 11123176,
+		"continents": [
+			"North America"
+		],
+		"languages": {
+			"fra": "French",
+			"hat": "Haitian Creole"
+		},
+		"capital": "Port-au-Prince"
+	},
+	{
+		"name": "Heard Island and McDonald Islands",
+		"esName": "Islas Heard y McDonald",
+		"code": "HMD",
+		"flag": "https://flagcdn.com/hm.svg",
+		"altImg": "Flag of Heard Island and McDonald Islands",
+		"population": 0,
+		"continents": [
+			"Antarctica"
+		],
+		"languages": {
+			"eng": "English"
+		},
+		"capital": ""
+	},
+	{
+		"name": "Honduras",
+		"esName": "Honduras",
+		"code": "HND",
+		"flag": "https://flagcdn.com/hn.svg",
+		"altImg": "Flag of Honduras",
+		"population": 9587522,
+		"continents": [
+			"North America"
+		],
+		"languages": {
+			"spa": "Spanish"
+		},
+		"capital": "Tegucigalpa"
+	},
+	{
+		"name": "Hong Kong",
+		"esName": "Hong Kong",
+		"code": "HKG",
+		"flag": "https://flagcdn.com/hk.svg",
+		"altImg": "Flag of Hong Kong",
+		"population": 7451000,
+		"continents": [
+			"Asia"
+		],
+		"languages": {
+			"eng": "English",
+			"zho": "Chinese"
+		},
+		"capital": "City of Victoria"
+	},
+	{
+		"name": "Hungary",
+		"esName": "Hungría",
+		"code": "HUN",
+		"flag": "https://flagcdn.com/hu.svg",
+		"altImg": "Flag of Hungary",
+		"population": 9775564,
+		"continents": [
+			"Europe"
+		],
+		"languages": {
+			"hun": "Hungarian"
+		},
+		"capital": "Budapest"
+	},
+	{
+		"name": "Iceland",
+		"esName": "Islandia",
+		"code": "ISL",
+		"flag": "https://flagcdn.com/is.svg",
+		"altImg": "Flag of Iceland",
+		"population": 352721,
+		"continents": [
+			"Europe"
+		],
+		"languages": {
+			"isl": "Icelandic"
+		},
+		"capital": "Reykjavik"
+	},
+	{
+		"name": "India",
+		"esName": "India",
+		"code": "IND",
+		"flag": "https://flagcdn.com/in.svg",
+		"altImg": "Flag of India",
+		"population": 1352617328,
+		"continents": [
+			"Asia"
+		],
+		"languages": {
+			"eng": "English",
+			"hin": "Hindi",
+			"tam": "Tamil"
+		},
+		"capital": "New Delhi"
+	},
+	{
+		"name": "Indonesia",
+		"esName": "Indonesia",
+		"code": "IDN",
+		"flag": "https://flagcdn.com/id.svg",
+		"altImg": "Flag of Indonesia",
+		"population": 267663435,
+		"continents": [
+			"Asia"
+		],
+		"languages": {
+			"ind": "Indonesian"
+		},
+		"capital": "Jakarta"
+	},
+	{
+		"name": "Iran",
+		"esName": "Iran",
+		"code": "IRN",
+		"flag": "https://flagcdn.com/ir.svg",
+		"altImg": "Flag of Iran",
+		"population": 81800269,
+		"continents": [
+			"Asia"
+		],
+		"languages": {
+			"fas": "Persian (Farsi)"
+		},
+		"capital": "Tehran"
+	},
+	{
+		"name": "Iraq",
+		"esName": "Irak",
+		"code": "IRQ",
+		"flag": "https://flagcdn.com/iq.svg",
+		"altImg": "Flag of Iraq",
+		"population": 38433600,
+		"continents": [
+			"Asia"
+		],
+		"languages": {
+			"ara": "Arabic",
+			"arc": "Aramaic",
+			"ckb": "Sorani"
+		},
+		"capital": "Baghdad"
+	},
+	{
+		"name": "Ireland",
+		"esName": "Irlanda",
+		"code": "IRL",
+		"flag": "https://flagcdn.com/ie.svg",
+		"altImg": "Flag of Ireland",
+		"population": 4867309,
+		"continents": [
+			"Europe"
+		],
+		"languages": {
+			"eng": "English",
+			"gle": "Irish"
+		},
+		"capital": "Dublin"
+	},
+	{
+		"name": "Isle of Man",
+		"esName": "Isla de Man",
+		"code": "IMN",
+		"flag": "https://flagcdn.com/im.svg",
+		"altImg": "Flag of Isle of Man",
+		"population": 85000,
+		"continents": [
+			"Europe"
+		],
+		"languages": {
+			"eng": "English",
+			"glv": "Manx"
+		},
+		"capital": "Douglas"
+	},
+	{
+		"name": "Israel",
+		"esName": "Israel",
+		"code": "ISR",
+		"flag": "https://flagcdn.com/il.svg",
+		"altImg": "Flag of Israel",
+		"population": 8882800,
+		"continents": [
+			"Asia"
+		],
+		"languages": {
+			"ara": "Arabic",
+			"heb": "Hebrew"
+		},
+		"capital": "Jerusalem"
+	},
+	{
+		"name": "Italy",
+		"esName": "Italia",
+		"code": "ITA",
+		"flag": "https://flagcdn.com/it.svg",
+		"altImg": "Flag of Italy",
+		"population": 60421760,
+		"continents": [
+			"Europe"
+		],
+		"languages": {
+			"ita": "Italian"
+		},
+		"capital": "Rome"
+	},
+	{
+		"name": "Ivory Coast",
+		"esName": "Costa de Marfil",
+		"code": "CIV",
+		"flag": "https://flagcdn.com/ci.svg",
+		"altImg": "Flag of Ivory Coast",
+		"population": 25069229,
+		"continents": [
+			"Africa"
+		],
+		"languages": {
+			"fra": "French"
+		},
+		"capital": "Yamoussoukro"
+	},
+	{
+		"name": "Jamaica",
+		"esName": "Jamaica",
+		"code": "JAM",
+		"flag": "https://flagcdn.com/jm.svg",
+		"altImg": "Flag of Jamaica",
+		"population": 2934855,
+		"continents": [
+			"North America"
+		],
+		"languages": {
+			"eng": "English",
+			"jam": "Jamaican Patois"
+		},
+		"capital": "Kingston"
+	},
+	{
+		"name": "Japan",
+		"esName": "Japón",
+		"code": "JPN",
+		"flag": "https://flagcdn.com/jp.svg",
+		"altImg": "Flag of Japan",
+		"population": 126529100,
+		"continents": [
+			"Asia"
+		],
+		"languages": {
+			"jpn": "Japanese"
+		},
+		"capital": "Tokyo"
+	},
+	{
+		"name": "Jersey",
+		"esName": "Jersey",
+		"code": "JEY",
+		"flag": "https://flagcdn.com/je.svg",
+		"altImg": "Flag of Jersey",
+		"population": 103000,
+		"continents": [
+			"Europe"
+		],
+		"languages": {
+			"eng": "English",
+			"fra": "French",
+			"nrf": "Jèrriais"
+		},
+		"capital": "Saint Helier"
+	},
+	{
+		"name": "Jordan",
+		"esName": "Jordania",
+		"code": "JOR",
+		"flag": "https://flagcdn.com/jo.svg",
+		"altImg": "Flag of Jordan",
+		"population": 9956011,
+		"continents": [
+			"Asia"
+		],
+		"languages": {
+			"ara": "Arabic"
+		},
+		"capital": "Amman"
+	},
+	{
+		"name": "Kazakhstan",
+		"esName": "Kazajistán",
+		"code": "KAZ",
+		"flag": "https://flagcdn.com/kz.svg",
+		"altImg": "Flag of Kazakhstan",
+		"population": 18272430,
+		"continents": [
+			"Asia"
+		],
+		"languages": {
+			"kaz": "Kazakh",
+			"rus": "Russian"
+		},
+		"capital": "Astana"
+	},
+	{
+		"name": "Kenya",
+		"esName": "Kenia",
+		"code": "KEN",
+		"flag": "https://flagcdn.com/ke.svg",
+		"altImg": "Flag of Kenya",
+		"population": 51393010,
+		"continents": [
+			"Africa"
+		],
+		"languages": {
+			"eng": "English",
+			"swa": "Swahili"
+		},
+		"capital": "Nairobi"
+	},
+	{
+		"name": "Kiribati",
+		"esName": "Kiribati",
+		"code": "KIR",
+		"flag": "https://flagcdn.com/ki.svg",
+		"altImg": "Flag of Kiribati",
+		"population": 115847,
+		"continents": [
+			"Oceania"
+		],
+		"languages": {
+			"eng": "English",
+			"gil": "Gilbertese"
+		},
+		"capital": "South Tarawa"
+	},
+	{
+		"name": "Kosovo",
+		"esName": "Kosovo",
+		"code": "UNK",
+		"flag": "https://flagcdn.com/xk.svg",
+		"altImg": "Flag of Kosovo",
+		"population": 1935000,
+		"continents": [
+			"Europe"
+		],
+		"languages": {
+			"sqi": "Albanian",
+			"srp": "Serbian"
+		},
+		"capital": "Pristina"
+	},
+	{
+		"name": "Kuwait",
+		"esName": "Kuwait",
+		"code": "KWT",
+		"flag": "https://flagcdn.com/kw.svg",
+		"altImg": "Flag of Kuwait",
+		"population": 4137309,
+		"continents": [
+			"Asia"
+		],
+		"languages": {
+			"ara": "Arabic"
+		},
+		"capital": "Kuwait City"
+	},
+	{
+		"name": "Kyrgyzstan",
+		"esName": "Kirguizistán",
+		"code": "KGZ",
+		"flag": "https://flagcdn.com/kg.svg",
+		"altImg": "Flag of Kyrgyzstan",
+		"population": 6322800,
+		"continents": [
+			"Asia"
+		],
+		"languages": {
+			"kir": "Kyrgyz",
+			"rus": "Russian"
+		},
+		"capital": "Bishkek"
+	},
+	{
+		"name": "Laos",
+		"esName": "Laos",
+		"code": "LAO",
+		"flag": "https://flagcdn.com/la.svg",
+		"altImg": "Flag of Laos",
+		"population": 7061507,
+		"continents": [
+			"Asia"
+		],
+		"languages": {
+			"lao": "Lao"
+		},
+		"capital": "Vientiane"
+	},
+	{
+		"name": "Latvia",
+		"esName": "Letonia",
+		"code": "LVA",
+		"flag": "https://flagcdn.com/lv.svg",
+		"altImg": "Flag of Latvia",
+		"population": 1927174,
+		"continents": [
+			"Europe"
+		],
+		"languages": {
+			"lav": "Latvian"
+		},
+		"capital": "Riga"
+	},
+	{
+		"name": "Lebanon",
+		"esName": "Líbano",
+		"code": "LBN",
+		"flag": "https://flagcdn.com/lb.svg",
+		"altImg": "Flag of Lebanon",
+		"population": 6848925,
+		"continents": [
+			"Asia"
+		],
+		"languages": {
+			"ara": "Arabic",
+			"fra": "French"
+		},
+		"capital": "Beirut"
+	},
+	{
+		"name": "Lesotho",
+		"esName": "Lesotho",
+		"code": "LSO",
+		"flag": "https://flagcdn.com/ls.svg",
+		"altImg": "Flag of Lesotho",
+		"population": 2108132,
+		"continents": [
+			"Africa"
+		],
+		"languages": {
+			"eng": "English",
+			"sot": "Sotho"
+		},
+		"capital": "Maseru"
+	},
+	{
+		"name": "Liberia",
+		"esName": "Liberia",
+		"code": "LBR",
+		"flag": "https://flagcdn.com/lr.svg",
+		"altImg": "Flag of Liberia",
+		"population": 4818977,
+		"continents": [
+			"Africa"
+		],
+		"languages": {
+			"eng": "English"
+		},
+		"capital": "Monrovia"
+	},
+	{
+		"name": "Libya",
+		"esName": "Libia",
+		"code": "LBY",
+		"flag": "https://flagcdn.com/ly.svg",
+		"altImg": "Flag of Libya",
+		"population": 6678567,
+		"continents": [
+			"Africa"
+		],
+		"languages": {
+			"ara": "Arabic"
+		},
+		"capital": "Tripoli"
+	},
+	{
+		"name": "Liechtenstein",
+		"esName": "Liechtenstein",
+		"code": "LIE",
+		"flag": "https://flagcdn.com/li.svg",
+		"altImg": "Flag of Liechtenstein",
+		"population": 37910,
+		"continents": [
+			"Europe"
+		],
+		"languages": {
+			"deu": "German"
+		},
+		"capital": "Vaduz"
+	},
+	{
+		"name": "Lithuania",
+		"esName": "Lituania",
+		"code": "LTU",
+		"flag": "https://flagcdn.com/lt.svg",
+		"altImg": "Flag of Lithuania",
+		"population": 2801543,
+		"continents": [
+			"Europe"
+		],
+		"languages": {
+			"lit": "Lithuanian"
+		},
+		"capital": "Vilnius"
+	},
+	{
+		"name": "Luxembourg",
+		"esName": "Luxemburgo",
+		"code": "LUX",
+		"flag": "https://flagcdn.com/lu.svg",
+		"altImg": "Flag of Luxembourg",
+		"population": 607950,
+		"continents": [
+			"Europe"
+		],
+		"languages": {
+			"deu": "German",
+			"fra": "French",
+			"ltz": "Luxembourgish"
+		},
+		"capital": "Luxembourg"
+	},
+	{
+		"name": "Macau",
+		"esName": "Macao",
+		"code": "MAC",
+		"flag": "https://flagcdn.com/mo.svg",
+		"altImg": "Flag of Macau",
+		"population": 631636,
+		"continents": [
+			"Asia"
+		],
+		"languages": {
+			"por": "Portuguese",
+			"zho": "Chinese"
+		},
+		"capital": ""
+	},
+	{
+		"name": "Madagascar",
+		"esName": "Madagascar",
+		"code": "MDG",
+		"flag": "https://flagcdn.com/mg.svg",
+		"altImg": "Flag of Madagascar",
+		"population": 26262368,
+		"continents": [
+			"Africa"
+		],
+		"languages": {
+			"fra": "French",
+			"mlg": "Malagasy"
+		},
+		"capital": "Antananarivo"
+	},
+	{
+		"name": "Malawi",
+		"esName": "Malawi",
+		"code": "MWI",
+		"flag": "https://flagcdn.com/mw.svg",
+		"altImg": "Flag of Malawi",
+		"population": 18143315,
+		"continents": [
+			"Africa"
+		],
+		"languages": {
+			"eng": "English",
+			"nya": "Chewa"
+		},
+		"capital": "Lilongwe"
+	},
+	{
+		"name": "Malaysia",
+		"esName": "Malasia",
+		"code": "MYS",
+		"flag": "https://flagcdn.com/my.svg",
+		"altImg": "Flag of Malaysia",
+		"population": 31528585,
+		"continents": [
+			"Asia"
+		],
+		"languages": {
+			"eng": "English",
+			"msa": "Malay"
+		},
+		"capital": "Kuala Lumpur"
+	},
+	{
+		"name": "Maldives",
+		"esName": "Maldivas",
+		"code": "MDV",
+		"flag": "https://flagcdn.com/mv.svg",
+		"altImg": "Flag of Maldives",
+		"population": 515696,
+		"continents": [
+			"Asia"
+		],
+		"languages": {
+			"div": "Maldivian"
+		},
+		"capital": "Malé"
+	},
+	{
+		"name": "Mali",
+		"esName": "Mali",
+		"code": "MLI",
+		"flag": "https://flagcdn.com/ml.svg",
+		"altImg": "Flag of Mali",
+		"population": 19077690,
+		"continents": [
+			"Africa"
+		],
+		"languages": {
+			"fra": "French"
+		},
+		"capital": "Bamako"
+	},
+	{
+		"name": "Malta",
+		"esName": "Malta",
+		"code": "MLT",
+		"flag": "https://flagcdn.com/mt.svg",
+		"altImg": "Flag of Malta",
+		"population": 484630,
+		"continents": [
+			"Europe"
+		],
+		"languages": {
+			"eng": "English",
+			"mlt": "Maltese"
+		},
+		"capital": "Valletta"
+	},
+	{
+		"name": "Marshall Islands",
+		"esName": "Islas Marshall",
+		"code": "MHL",
+		"flag": "https://flagcdn.com/mh.svg",
+		"altImg": "Flag of Marshall Islands",
+		"population": 58413,
+		"continents": [
+			"Oceania"
+		],
+		"languages": {
+			"eng": "English",
+			"mah": "Marshallese"
+		},
+		"capital": "Majuro"
+	},
+	{
+		"name": "Martinique",
+		"esName": "Martinica",
+		"code": "MTQ",
+		"flag": "https://flagcdn.com/mq.svg",
+		"altImg": "Flag of Martinique",
+		"population": 376480,
+		"continents": [
+			"North America"
+		],
+		"languages": {
+			"fra": "French"
+		},
+		"capital": "Fort-de-France"
+	},
+	{
+		"name": "Mauritania",
+		"esName": "Mauritania",
+		"code": "MRT",
+		"flag": "https://flagcdn.com/mr.svg",
+		"altImg": "Flag of Mauritania",
+		"population": 4403319,
+		"continents": [
+			"Africa"
+		],
+		"languages": {
+			"ara": "Arabic"
+		},
+		"capital": "Nouakchott"
+	},
+	{
+		"name": "Mauritius",
+		"esName": "Mauricio",
+		"code": "MUS",
+		"flag": "https://flagcdn.com/mu.svg",
+		"altImg": "Flag of Mauritius",
+		"population": 1265303,
+		"continents": [
+			"Africa"
+		],
+		"languages": {
+			"eng": "English",
+			"fra": "French",
+			"mfe": "Mauritian Creole"
+		},
+		"capital": "Port Louis"
+	},
+	{
+		"name": "Mayotte",
+		"esName": "Mayotte",
+		"code": "MYT",
+		"flag": "https://flagcdn.com/yt.svg",
+		"altImg": "Flag of Mayotte",
+		"population": 270372,
+		"continents": [
+			"Africa"
+		],
+		"languages": {
+			"fra": "French"
+		},
+		"capital": "Mamoudzou"
+	},
+	{
+		"name": "Mexico",
+		"esName": "México",
+		"code": "MEX",
+		"flag": "https://flagcdn.com/mx.svg",
+		"altImg": "Flag of Mexico",
+		"population": 126190788,
+		"continents": [
+			"North America"
+		],
+		"languages": {
+			"spa": "Spanish"
+		},
+		"capital": "Mexico City"
+	},
+	{
+		"name": "Micronesia",
+		"esName": "Micronesia",
+		"code": "FSM",
+		"flag": "https://flagcdn.com/fm.svg",
+		"altImg": "Flag of Micronesia",
+		"population": 112640,
+		"continents": [
+			"Oceania"
+		],
+		"languages": {
+			"eng": "English"
+		},
+		"capital": "Palikir"
+	},
+	{
+		"name": "Moldova",
+		"esName": "Moldavia",
+		"code": "MDA",
+		"flag": "https://flagcdn.com/md.svg",
+		"altImg": "Flag of Moldova",
+		"population": 2706049,
+		"continents": [
+			"Europe"
+		],
+		"languages": {
+			"ron": "Moldavian"
+		},
+		"capital": "Chișinău"
+	},
+	{
+		"name": "Monaco",
+		"esName": "Mónaco",
+		"code": "MCO",
+		"flag": "https://flagcdn.com/mc.svg",
+		"altImg": "Flag of Monaco",
+		"population": 38682,
+		"continents": [
+			"Europe"
+		],
+		"languages": {
+			"fra": "French"
+		},
+		"capital": "Monaco"
+	},
+	{
+		"name": "Mongolia",
+		"esName": "Mongolia",
+		"code": "MNG",
+		"flag": "https://flagcdn.com/mn.svg",
+		"altImg": "Flag of Mongolia",
+		"population": 3170208,
+		"continents": [
+			"Asia"
+		],
+		"languages": {
+			"mon": "Mongolian"
+		},
+		"capital": "Ulan Bator"
+	},
+	{
+		"name": "Montenegro",
+		"esName": "Montenegro",
+		"code": "MNE",
+		"flag": "https://flagcdn.com/me.svg",
+		"altImg": "Flag of Montenegro",
+		"population": 631219,
+		"continents": [
+			"Europe"
+		],
+		"languages": {
+			"cnr": "Montenegrin"
+		},
+		"capital": "Podgorica"
+	},
+	{
+		"name": "Montserrat",
+		"esName": "Montserrat",
+		"code": "MSR",
+		"flag": "https://flagcdn.com/ms.svg",
+		"altImg": "Flag of Montserrat",
+		"population": 5900,
+		"continents": [
+			"North America"
+		],
+		"languages": {
+			"eng": "English"
+		},
+		"capital": "Plymouth"
+	},
+	{
+		"name": "Morocco",
+		"esName": "Marruecos",
+		"code": "MAR",
+		"flag": "https://flagcdn.com/ma.svg",
+		"altImg": "Flag of Morocco",
+		"population": 36029138,
+		"continents": [
+			"Africa"
+		],
+		"languages": {
+			"ara": "Arabic",
+			"ber": "Berber"
+		},
+		"capital": "Rabat"
+	},
+	{
+		"name": "Mozambique",
+		"esName": "Mozambique",
+		"code": "MOZ",
+		"flag": "https://flagcdn.com/mz.svg",
+		"altImg": "Flag of Mozambique",
+		"population": 29495962,
+		"continents": [
+			"Africa"
+		],
+		"languages": {
+			"por": "Portuguese"
+		},
+		"capital": "Maputo"
+	},
+	{
+		"name": "Myanmar",
+		"esName": "Myanmar",
+		"code": "MMR",
+		"flag": "https://flagcdn.com/mm.svg",
+		"altImg": "Flag of Myanmar",
+		"population": 53708395,
+		"continents": [
+			"Asia"
+		],
+		"languages": {
+			"mya": "Burmese"
+		},
+		"capital": "Naypyidaw"
+	},
+	{
+		"name": "Namibia",
+		"esName": "Namibia",
+		"code": "NAM",
+		"flag": "https://flagcdn.com/na.svg",
+		"altImg": "Flag of Namibia",
+		"population": 2448255,
+		"continents": [
+			"Africa"
+		],
+		"languages": {
+			"afr": "Afrikaans",
+			"deu": "German",
+			"eng": "English",
+			"her": "Herero",
+			"hgm": "Khoekhoe",
+			"kwn": "Kwangali",
+			"loz": "Lozi",
+			"ndo": "Ndonga",
+			"tsn": "Tswana"
+		},
+		"capital": "Windhoek"
+	},
+	{
+		"name": "Nauru",
+		"esName": "Nauru",
+		"code": "NRU",
+		"flag": "https://flagcdn.com/nr.svg",
+		"altImg": "Flag of Nauru",
+		"population": 12704,
+		"continents": [
+			"Oceania"
+		],
+		"languages": {
+			"eng": "English",
+			"nau": "Nauru"
+		},
+		"capital": "Yaren"
+	},
+	{
+		"name": "Nepal",
+		"esName": "Nepal",
+		"code": "NPL",
+		"flag": "https://flagcdn.com/np.svg",
+		"altImg": "Flag of Nepal",
+		"population": 28087871,
+		"continents": [
+			"Asia"
+		],
+		"languages": {
+			"nep": "Nepali"
+		},
+		"capital": "Kathmandu"
+	},
+	{
+		"name": "Netherlands",
+		"esName": "Países Bajos",
+		"code": "NLD",
+		"flag": "https://flagcdn.com/nl.svg",
+		"altImg": "Flag of Netherlands",
+		"population": 17231624,
+		"continents": [
+			"Europe"
+		],
+		"languages": {
+			"nld": "Dutch"
+		},
+		"capital": "Amsterdam"
+	},
+	{
+		"name": "New Caledonia",
+		"esName": "Nueva Caledonia",
+		"code": "NCL",
+		"flag": "https://flagcdn.com/nc.svg",
+		"altImg": "Flag of New Caledonia",
+		"population": 284060,
+		"continents": [
+			"Oceania"
+		],
+		"languages": {
+			"fra": "French"
+		},
+		"capital": "Nouméa"
+	},
+	{
+		"name": "New Zealand",
+		"esName": "Nueva Zelanda",
+		"code": "NZL",
+		"flag": "https://flagcdn.com/nz.svg",
+		"altImg": "Flag of New Zealand",
+		"population": 4841000,
+		"continents": [
+			"Oceania"
+		],
+		"languages": {
+			"eng": "English",
+			"mri": "Māori",
+			"nzs": "New Zealand Sign Language"
+		},
+		"capital": "Wellington"
+	},
+	{
+		"name": "Nicaragua",
+		"esName": "Nicaragua",
+		"code": "NIC",
+		"flag": "https://flagcdn.com/ni.svg",
+		"altImg": "Flag of Nicaragua",
+		"population": 6465513,
+		"continents": [
+			"North America"
+		],
+		"languages": {
+			"spa": "Spanish"
+		},
+		"capital": "Managua"
+	},
+	{
+		"name": "Niger",
+		"esName": "Níger",
+		"code": "NER",
+		"flag": "https://flagcdn.com/ne.svg",
+		"altImg": "Flag of Niger",
+		"population": 22442948,
+		"continents": [
+			"Africa"
+		],
+		"languages": {
+			"fra": "French"
+		},
+		"capital": "Niamey"
+	},
+	{
+		"name": "Nigeria",
+		"esName": "Nigeria",
+		"code": "NGA",
+		"flag": "https://flagcdn.com/ng.svg",
+		"altImg": "Flag of Nigeria",
+		"population": 195874740,
+		"continents": [
+			"Africa"
+		],
+		"languages": {
+			"eng": "English"
+		},
+		"capital": "Abuja"
+	},
+	{
+		"name": "Niue",
+		"esName": "Niue",
+		"code": "NIU",
+		"flag": "https://flagcdn.com/nu.svg",
+		"altImg": "Flag of Niue",
+		"population": 1624,
+		"continents": [
+			"Oceania"
+		],
+		"languages": {
+			"eng": "English",
+			"niu": "Niuean"
+		},
+		"capital": "Alofi"
+	},
+	{
+		"name": "Norfolk Island",
+		"esName": "Isla de Norfolk",
+		"code": "NFK",
+		"flag": "https://flagcdn.com/nf.svg",
+		"altImg": "Flag of Norfolk Island",
+		"population": 2169,
+		"continents": [
+			"Oceania"
+		],
+		"languages": {
+			"eng": "English",
+			"pih": "Norfuk"
+		},
+		"capital": "Kingston"
+	},
+	{
+		"name": "North Korea",
+		"esName": "Corea del Norte",
+		"code": "PRK",
+		"flag": "https://flagcdn.com/kp.svg",
+		"altImg": "Flag of North Korea",
+		"population": 25549819,
+		"continents": [
+			"Asia"
+		],
+		"languages": {
+			"kor": "Korean"
+		},
+		"capital": "Pyongyang"
+	},
+	{
+		"name": "North Macedonia",
+		"esName": "Macedonia del Norte",
+		"code": "MKD",
+		"flag": "https://flagcdn.com/mk.svg",
+		"altImg": "Flag of North Macedonia",
+		"population": 2084367,
+		"continents": [
+			"Europe"
+		],
+		"languages": {
+			"mkd": "Macedonian"
+		},
+		"capital": "Skopje"
+	},
+	{
+		"name": "Northern Mariana Islands",
+		"esName": "Islas Marianas del Norte",
+		"code": "MNP",
+		"flag": "https://flagcdn.com/mp.svg",
+		"altImg": "Flag of Northern Mariana Islands",
+		"population": 56882,
+		"continents": [
+			"Oceania"
+		],
+		"languages": {
+			"cal": "Carolinian",
+			"cha": "Chamorro",
+			"eng": "English"
+		},
+		"capital": "Saipan"
+	},
+	{
+		"name": "Norway",
+		"esName": "Noruega",
+		"code": "NOR",
+		"flag": "https://flagcdn.com/no.svg",
+		"altImg": "Flag of Norway",
+		"population": 5311916,
+		"continents": [
+			"Europe"
+		],
+		"languages": {
+			"nno": "Norwegian Nynorsk",
+			"nob": "Norwegian Bokmål",
+			"smi": "Sami"
+		},
+		"capital": "Oslo"
+	},
+	{
+		"name": "Oman",
+		"esName": "Omán",
+		"code": "OMN",
+		"flag": "https://flagcdn.com/om.svg",
+		"altImg": "Flag of Oman",
+		"population": 4829483,
+		"continents": [
+			"Asia"
+		],
+		"languages": {
+			"ara": "Arabic"
+		},
+		"capital": "Muscat"
+	},
+	{
+		"name": "Pakistan",
+		"esName": "Pakistán",
+		"code": "PAK",
+		"flag": "https://flagcdn.com/pk.svg",
+		"altImg": "Flag of Pakistan",
+		"population": 212215030,
+		"continents": [
+			"Asia"
+		],
+		"languages": {
+			"eng": "English",
+			"urd": "Urdu"
+		},
+		"capital": "Islamabad"
+	},
+	{
+		"name": "Palau",
+		"esName": "Palau",
+		"code": "PLW",
+		"flag": "https://flagcdn.com/pw.svg",
+		"altImg": "Flag of Palau",
+		"population": 17907,
+		"continents": [
+			"Oceania"
+		],
+		"languages": {
+			"eng": "English",
+			"pau": "Palauan"
+		},
+		"capital": "Ngerulmud"
+	},
+	{
+		"name": "Palestine",
+		"esName": "Palestina",
+		"code": "PSE",
+		"flag": "https://flagcdn.com/ps.svg",
+		"altImg": "Flag of Palestine",
+		"population": 4569087,
+		"continents": [
+			"Asia"
+		],
+		"languages": {
+			"ara": "Arabic"
+		},
+		"capital": "Ramallah"
+	},
+	{
+		"name": "Panama",
+		"esName": "Panamá",
+		"code": "PAN",
+		"flag": "https://flagcdn.com/pa.svg",
+		"altImg": "Flag of Panama",
+		"population": 4176873,
+		"continents": [
+			"North America"
+		],
+		"languages": {
+			"spa": "Spanish"
+		},
+		"capital": "Panama City"
+	},
+	{
+		"name": "Papua New Guinea",
+		"esName": "Papúa Nueva Guinea",
+		"code": "PNG",
+		"flag": "https://flagcdn.com/pg.svg",
+		"altImg": "Flag of Papua New Guinea",
+		"population": 8606316,
+		"continents": [
+			"Oceania"
+		],
+		"languages": {
+			"eng": "English",
+			"hmo": "Hiri Motu",
+			"tpi": "Tok Pisin"
+		},
+		"capital": "Port Moresby"
+	},
+	{
+		"name": "Paraguay",
+		"esName": "Paraguay",
+		"code": "PRY",
+		"flag": "https://flagcdn.com/py.svg",
+		"altImg": "Flag of Paraguay",
+		"population": 6956071,
+		"continents": [
+			"South America"
+		],
+		"languages": {
+			"grn": "Guaraní",
+			"spa": "Spanish"
+		},
+		"capital": "Asunción"
+	},
+	{
+		"name": "Peru",
+		"esName": "Perú",
+		"code": "PER",
+		"flag": "https://flagcdn.com/pe.svg",
+		"altImg": "Flag of Peru",
+		"population": 31989256,
+		"continents": [
+			"South America"
+		],
+		"languages": {
+			"aym": "Aymara",
+			"que": "Quechua",
+			"spa": "Spanish"
+		},
+		"capital": "Lima"
+	},
+	{
+		"name": "Philippines",
+		"esName": "Filipinas",
+		"code": "PHL",
+		"flag": "https://flagcdn.com/ph.svg",
+		"altImg": "Flag of Philippines",
+		"population": 106651922,
+		"continents": [
+			"Asia"
+		],
+		"languages": {
+			"eng": "English",
+			"fil": "Filipino"
+		},
+		"capital": "Manila"
+	},
+	{
+		"name": "Pitcairn Islands",
+		"esName": "Islas Pitcairn",
+		"code": "PCN",
+		"flag": "https://flagcdn.com/pn.svg",
+		"altImg": "Flag of Pitcairn Islands",
+		"population": 67,
+		"continents": [
+			"Oceania"
+		],
+		"languages": {
+			"eng": "English"
+		},
+		"capital": "Adamstown"
+	},
+	{
+		"name": "Poland",
+		"esName": "Polonia",
+		"code": "POL",
+		"flag": "https://flagcdn.com/pl.svg",
+		"altImg": "Flag of Poland",
+		"population": 37974750,
+		"continents": [
+			"Europe"
+		],
+		"languages": {
+			"pol": "Polish"
+		},
+		"capital": "Warsaw"
+	},
+	{
+		"name": "Portugal",
+		"esName": "Portugal",
+		"code": "PRT",
+		"flag": "https://flagcdn.com/pt.svg",
+		"altImg": "Flag of Portugal",
+		"population": 10283822,
+		"continents": [
+			"Europe"
+		],
+		"languages": {
+			"por": "Portuguese"
+		},
+		"capital": "Lisbon"
+	},
+	{
+		"name": "Puerto Rico",
+		"esName": "Puerto Rico",
+		"code": "PRI",
+		"flag": "https://flagcdn.com/pr.svg",
+		"altImg": "Flag of Puerto Rico",
+		"population": 3195153,
+		"continents": [
+			"North America"
+		],
+		"languages": {
+			"eng": "English",
+			"spa": "Spanish"
+		},
+		"capital": "San Juan"
+	},
+	{
+		"name": "Qatar",
+		"esName": "Catar",
+		"code": "QAT",
+		"flag": "https://flagcdn.com/qa.svg",
+		"altImg": "Flag of Qatar",
+		"population": 2781677,
+		"continents": [
+			"Asia"
+		],
+		"languages": {
+			"ara": "Arabic"
+		},
+		"capital": "Doha"
+	},
+	{
+		"name": "Réunion",
+		"esName": "Reunión",
+		"code": "REU",
+		"flag": "https://flagcdn.com/re.svg",
+		"altImg": "Flag of Réunion",
+		"population": 859959,
+		"continents": [
+			"Africa"
+		],
+		"languages": {
+			"fra": "French"
+		},
+		"capital": "Saint-Denis"
+	},
+	{
+		"name": "Romania",
+		"esName": "Rumania",
+		"code": "ROU",
+		"flag": "https://flagcdn.com/ro.svg",
+		"altImg": "Flag of Romania",
+		"population": 19466145,
+		"continents": [
+			"Europe"
+		],
+		"languages": {
+			"ron": "Romanian"
+		},
+		"capital": "Bucharest"
+	},
+	{
+		"name": "Russia",
+		"esName": "Rusia",
+		"code": "RUS",
+		"flag": "https://flagcdn.com/ru.svg",
+		"altImg": "Flag of Russia",
+		"population": 144478050,
+		"continents": [
+			"Europe"
+		],
+		"languages": {
+			"rus": "Russian"
+		},
+		"capital": "Moscow"
+	},
+	{
+		"name": "Rwanda",
+		"esName": "Ruanda",
+		"code": "RWA",
+		"flag": "https://flagcdn.com/rw.svg",
+		"altImg": "Flag of Rwanda",
+		"population": 12301939,
+		"continents": [
+			"Africa"
+		],
+		"languages": {
+			"eng": "English",
+			"fra": "French",
+			"kin": "Kinyarwanda"
+		},
+		"capital": "Kigali"
+	},
+	{
+		"name": "Saint Barthélemy",
+		"esName": "San Bartolomé",
+		"code": "BLM",
+		"flag": "https://flagcdn.com/bl.svg",
+		"altImg": "Flag of Saint Barthélemy",
+		"population": 10000,
+		"continents": [
+			"North America"
+		],
+		"languages": {
+			"fra": "French"
+		},
+		"capital": "Gustavia"
+	},
+	{
+		"name": "Saint Helena, Ascension and Tristan da Cunha",
+		"esName": "Santa Elena, Ascensión y Tristán de Acuña",
+		"code": "SHN",
+		"flag": "https://flagcdn.com/sh.svg",
+		"altImg": "Flag of Saint Helena, Ascension and Tristan da Cunha",
+		"population": 6600,
+		"continents": [
+			"Africa"
+		],
+		"languages": {
+			"eng": "English"
+		},
+		"capital": "Jamestown"
+	},
+	{
+		"name": "Saint Kitts and Nevis",
+		"esName": "San Cristóbal y Nieves",
+		"code": "KNA",
+		"flag": "https://flagcdn.com/kn.svg",
+		"altImg": "Flag of Saint Kitts and Nevis",
+		"population": 52441,
+		"continents": [
+			"North America"
+		],
+		"languages": {
+			"eng": "English"
+		},
+		"capital": "Basseterre"
+	},
+	{
+		"name": "Saint Lucia",
+		"esName": "Santa Lucía",
+		"code": "LCA",
+		"flag": "https://flagcdn.com/lc.svg",
+		"altImg": "Flag of Saint Lucia",
+		"population": 181889,
+		"continents": [
+			"North America"
+		],
+		"languages": {
+			"eng": "English"
+		},
+		"capital": "Castries"
+	},
+	{
+		"name": "Saint Martin",
+		"esName": "Saint Martin",
+		"code": "MAF",
+		"flag": "https://flagcdn.com/mf.svg",
+		"altImg": "Flag of Saint Martin",
+		"population": 32000,
+		"continents": [
+			"North America"
+		],
+		"languages": {
+			"fra": "French"
+		},
+		"capital": "Marigot"
+	},
+	{
+		"name": "Saint Pierre and Miquelon",
+		"esName": "San Pedro y Miquelón",
+		"code": "SPM",
+		"flag": "https://flagcdn.com/pm.svg",
+		"altImg": "Flag of Saint Pierre and Miquelon",
+		"population": 5888,
+		"continents": [
+			"North America"
+		],
+		"languages": {
+			"fra": "French"
+		},
+		"capital": "Saint-Pierre"
+	},
+	{
+		"name": "Saint Vincent and the Grenadines",
+		"esName": "San Vicente y Granadinas",
+		"code": "VCT",
+		"flag": "https://flagcdn.com/vc.svg",
+		"altImg": "Flag of Saint Vincent and the Grenadines",
+		"population": 110210,
+		"continents": [
+			"North America"
+		],
+		"languages": {
+			"eng": "English"
+		},
+		"capital": "Kingstown"
+	},
+	{
+		"name": "Samoa",
+		"esName": "Samoa",
+		"code": "WSM",
+		"flag": "https://flagcdn.com/ws.svg",
+		"altImg": "Flag of Samoa",
+		"population": 196130,
+		"continents": [
+			"Oceania"
+		],
+		"languages": {
+			"eng": "English",
+			"smo": "Samoan"
+		},
+		"capital": "Apia"
+	},
+	{
+		"name": "San Marino",
+		"esName": "San Marino",
+		"code": "SMR",
+		"flag": "https://flagcdn.com/sm.svg",
+		"altImg": "Flag of San Marino",
+		"population": 33785,
+		"continents": [
+			"Europe"
+		],
+		"languages": {
+			"ita": "Italian"
+		},
+		"capital": "City of San Marino"
+	},
+	{
+		"name": "São Tomé and Príncipe",
+		"esName": "Santo Tomé y Príncipe",
+		"code": "STP",
+		"flag": "https://flagcdn.com/st.svg",
+		"altImg": "Flag of São Tomé and Príncipe",
+		"population": 211028,
+		"continents": [
+			"Africa"
+		],
+		"languages": {
+			"por": "Portuguese"
+		},
+		"capital": "São Tomé"
+	},
+	{
+		"name": "Saudi Arabia",
+		"esName": "Arabia Saudí",
+		"code": "SAU",
+		"flag": "https://flagcdn.com/sa.svg",
+		"altImg": "Flag of Saudi Arabia",
+		"population": 33699947,
+		"continents": [
+			"Asia"
+		],
+		"languages": {
+			"ara": "Arabic"
+		},
+		"capital": "Riyadh"
+	},
+	{
+		"name": "Senegal",
+		"esName": "Senegal",
+		"code": "SEN",
+		"flag": "https://flagcdn.com/sn.svg",
+		"altImg": "Flag of Senegal",
+		"population": 15854360,
+		"continents": [
+			"Africa"
+		],
+		"languages": {
+			"fra": "French"
+		},
+		"capital": "Dakar"
+	},
+	{
+		"name": "Serbia",
+		"esName": "Serbia",
+		"code": "SRB",
+		"flag": "https://flagcdn.com/rs.svg",
+		"altImg": "Flag of Serbia",
+		"population": 6963764,
+		"continents": [
+			"Europe"
+		],
+		"languages": {
+			"srp": "Serbian"
+		},
+		"capital": "Belgrade"
+	},
+	{
+		"name": "Seychelles",
+		"esName": "Seychelles",
+		"code": "SYC",
+		"flag": "https://flagcdn.com/sc.svg",
+		"altImg": "Flag of Seychelles",
+		"population": 96762,
+		"continents": [
+			"Africa"
+		],
+		"languages": {
+			"crs": "Seychellois Creole",
+			"eng": "English",
+			"fra": "French"
+		},
+		"capital": "Victoria"
+	},
+	{
+		"name": "Sierra Leone",
+		"esName": "Sierra Leone",
+		"code": "SLE",
+		"flag": "https://flagcdn.com/sl.svg",
+		"altImg": "Flag of Sierra Leone",
+		"population": 7650154,
+		"continents": [
+			"Africa"
+		],
+		"languages": {
+			"eng": "English"
+		},
+		"capital": "Freetown"
+	},
+	{
+		"name": "Singapore",
+		"esName": "Singapur",
+		"code": "SGP",
+		"flag": "https://flagcdn.com/sg.svg",
+		"altImg": "Flag of Singapore",
+		"population": 5638676,
+		"continents": [
+			"Asia"
+		],
+		"languages": {
+			"eng": "English",
+			"msa": "Malay",
+			"tam": "Tamil",
+			"zho": "Chinese"
+		},
+		"capital": "Singapore"
+	},
+	{
+		"name": "Sint Maarten",
+		"esName": "Sint Maarten",
+		"code": "SXM",
+		"flag": "https://flagcdn.com/sx.svg",
+		"altImg": "Flag of Sint Maarten",
+		"population": 44000,
+		"continents": [
+			"North America"
+		],
+		"languages": {
+			"eng": "English",
+			"fra": "French",
+			"nld": "Dutch"
+		},
+		"capital": "Philipsburg"
+	},
+	{
+		"name": "Slovakia",
+		"esName": "Eslovaquia",
+		"code": "SVK",
+		"flag": "https://flagcdn.com/sk.svg",
+		"altImg": "Flag of Slovakia",
+		"population": 5446771,
+		"continents": [
+			"Europe"
+		],
+		"languages": {
+			"slk": "Slovak"
+		},
+		"capital": "Bratislava"
+	},
+	{
+		"name": "Slovenia",
+		"esName": "Eslovenia",
+		"code": "SVN",
+		"flag": "https://flagcdn.com/si.svg",
+		"altImg": "Flag of Slovenia",
+		"population": 2073894,
+		"continents": [
+			"Europe"
+		],
+		"languages": {
+			"slv": "Slovene"
+		},
+		"capital": "Ljubljana"
+	},
+	{
+		"name": "Solomon Islands",
+		"esName": "Islas Salomón",
+		"code": "SLB",
+		"flag": "https://flagcdn.com/sb.svg",
+		"altImg": "Flag of Solomon Islands",
+		"population": 652858,
+		"continents": [
+			"Oceania"
+		],
+		"languages": {
+			"eng": "English"
+		},
+		"capital": "Honiara"
+	},
+	{
+		"name": "Somalia",
+		"esName": "Somalia",
+		"code": "SOM",
+		"flag": "https://flagcdn.com/so.svg",
+		"altImg": "Flag of Somalia",
+		"population": 15008154,
+		"continents": [
+			"Africa"
+		],
+		"languages": {
+			"ara": "Arabic",
+			"som": "Somali"
+		},
+		"capital": "Mogadishu"
+	},
+	{
+		"name": "South Africa",
+		"esName": "Sudáfrica",
+		"code": "ZAF",
+		"flag": "https://flagcdn.com/za.svg",
+		"altImg": "Flag of South Africa",
+		"population": 57779622,
+		"continents": [
+			"Africa"
+		],
+		"languages": {
+			"afr": "Afrikaans",
+			"eng": "English",
+			"nbl": "Southern Ndebele",
+			"nso": "Northern Sotho",
+			"sot": "Southern Sotho",
+			"ssw": "Swazi",
+			"tsn": "Tswana",
+			"tso": "Tsonga",
+			"ven": "Venda",
+			"xho": "Xhosa",
+			"zul": "Zulu"
+		},
+		"capital": "Pretoria"
+	},
+	{
+		"name": "South Georgia",
+		"esName": "Islas Georgias del Sur y Sandwich del Sur",
+		"code": "SGS",
+		"flag": "https://flagcdn.com/gs.svg",
+		"altImg": "Flag of South Georgia",
+		"population": 30,
+		"continents": [
+			"Antarctica"
+		],
+		"languages": {
+			"eng": "English"
+		},
+		"capital": "King Edward Point"
+	},
+	{
+		"name": "South Korea",
+		"esName": "Corea del Sur",
+		"code": "KOR",
+		"flag": "https://flagcdn.com/kr.svg",
+		"altImg": "Flag of South Korea",
+		"population": 51606633,
+		"continents": [
+			"Asia"
+		],
+		"languages": {
+			"kor": "Korean"
+		},
+		"capital": "Seoul"
+	},
+	{
+		"name": "South Sudan",
+		"esName": "Sudán del Sur",
+		"code": "SSD",
+		"flag": "https://flagcdn.com/ss.svg",
+		"altImg": "Flag of South Sudan",
+		"population": 10975920,
+		"continents": [
+			"Africa"
+		],
+		"languages": {
+			"eng": "English"
+		},
+		"capital": "Juba"
+	},
+	{
+		"name": "Spain",
+		"esName": "España",
+		"code": "ESP",
+		"flag": "https://flagcdn.com/es.svg",
+		"altImg": "Flag of Spain",
+		"population": 46796540,
+		"continents": [
+			"Europe"
+		],
+		"languages": {
+			"spa": "Spanish"
+		},
+		"capital": "Madrid"
+	},
+	{
+		"name": "Sri Lanka",
+		"esName": "Sri Lanka",
+		"code": "LKA",
+		"flag": "https://flagcdn.com/lk.svg",
+		"altImg": "Flag of Sri Lanka",
+		"population": 21670000,
+		"continents": [
+			"Asia"
+		],
+		"languages": {
+			"sin": "Sinhala",
+			"tam": "Tamil"
+		},
+		"capital": "Colombo"
+	},
+	{
+		"name": "Sudan",
+		"esName": "Sudán",
+		"code": "SDN",
+		"flag": "https://flagcdn.com/sd.svg",
+		"altImg": "Flag of Sudan",
+		"population": 41801533,
+		"continents": [
+			"Africa"
+		],
+		"languages": {
+			"ara": "Arabic",
+			"eng": "English"
+		},
+		"capital": "Khartoum"
+	},
+	{
+		"name": "Suriname",
+		"esName": "Surinam",
+		"code": "SUR",
+		"flag": "https://flagcdn.com/sr.svg",
+		"altImg": "Flag of Suriname",
+		"population": 575991,
+		"continents": [
+			"South America"
+		],
+		"languages": {
+			"nld": "Dutch"
+		},
+		"capital": "Paramaribo"
+	},
+	{
+		"name": "Svalbard and Jan Mayen",
+		"esName": "Islas Svalbard y Jan Mayen",
+		"code": "SJM",
+		"flag": "https://flagcdn.com/sj.svg",
+		"altImg": "Flag of Svalbard and Jan Mayen",
+		"population": 2572,
+		"continents": [
+			"Europe"
+		],
+		"languages": {
+			"nor": "Norwegian"
+		},
+		"capital": "Longyearbyen"
+	},
+	{
+		"name": "Sweden",
+		"esName": "Suecia",
+		"code": "SWE",
+		"flag": "https://flagcdn.com/se.svg",
+		"altImg": "Flag of Sweden",
+		"population": 10175214,
+		"continents": [
+			"Europe"
+		],
+		"languages": {
+			"swe": "Swedish"
+		},
+		"capital": "Stockholm"
+	},
+	{
+		"name": "Switzerland",
+		"esName": "Suiza",
+		"code": "CHE",
+		"flag": "https://flagcdn.com/ch.svg",
+		"altImg": "Flag of Switzerland",
+		"population": 8513227,
+		"continents": [
+			"Europe"
+		],
+		"languages": {
+			"fra": "French",
+			"gsw": "Swiss German",
+			"ita": "Italian",
+			"roh": "Romansh"
+		},
+		"capital": "Bern"
+	},
+	{
+		"name": "Syria",
+		"esName": "Siria",
+		"code": "SYR",
+		"flag": "https://flagcdn.com/sy.svg",
+		"altImg": "Flag of Syria",
+		"population": 16906283,
+		"continents": [
+			"Asia"
+		],
+		"languages": {
+			"ara": "Arabic"
+		},
+		"capital": "Damascus"
+	},
+	{
+		"name": "Taiwan",
+		"esName": "Taiwán",
+		"code": "TWN",
+		"flag": "https://flagcdn.com/tw.svg",
+		"altImg": "Flag of Taiwan",
+		"population": 23570000,
+		"continents": [
+			"Asia"
+		],
+		"languages": {
+			"zho": "Chinese"
+		},
+		"capital": "Taipei"
+	},
+	{
+		"name": "Tajikistan",
+		"esName": "Tayikistán",
+		"code": "TJK",
+		"flag": "https://flagcdn.com/tj.svg",
+		"altImg": "Flag of Tajikistan",
+		"population": 9100837,
+		"continents": [
+			"Asia"
+		],
+		"languages": {
+			"rus": "Russian",
+			"tgk": "Tajik"
+		},
+		"capital": "Dushanbe"
+	},
+	{
+		"name": "Tanzania",
+		"esName": "Tanzania",
+		"code": "TZA",
+		"flag": "https://flagcdn.com/tz.svg",
+		"altImg": "Flag of Tanzania",
+		"population": 56318348,
+		"continents": [
+			"Africa"
+		],
+		"languages": {
+			"eng": "English",
+			"swa": "Swahili"
+		},
+		"capital": "Dodoma"
+	},
+	{
+		"name": "Thailand",
+		"esName": "Tailandia",
+		"code": "THA",
+		"flag": "https://flagcdn.com/th.svg",
+		"altImg": "Flag of Thailand",
+		"population": 69428524,
+		"continents": [
+			"Asia"
+		],
+		"languages": {
+			"tha": "Thai"
+		},
+		"capital": "Bangkok"
+	},
+	{
+		"name": "Timor-Leste",
+		"esName": "Timor Oriental",
+		"code": "TLS",
+		"flag": "https://flagcdn.com/tl.svg",
+		"altImg": "Flag of Timor-Leste",
+		"population": 1267972,
+		"continents": [
+			"Asia"
+		],
+		"languages": {
+			"por": "Portuguese",
+			"tet": "Tetum"
+		},
+		"capital": "Dili"
+	},
+	{
+		"name": "Togo",
+		"esName": "Togo",
+		"code": "TGO",
+		"flag": "https://flagcdn.com/tg.svg",
+		"altImg": "Flag of Togo",
+		"population": 7889094,
+		"continents": [
+			"Africa"
+		],
+		"languages": {
+			"fra": "French"
+		},
+		"capital": "Lomé"
+	},
+	{
+		"name": "Tokelau",
+		"esName": "Islas Tokelau",
+		"code": "TKL",
+		"flag": "https://flagcdn.com/tk.svg",
+		"altImg": "Flag of Tokelau",
+		"population": 1411,
+		"continents": [
+			"Oceania"
+		],
+		"languages": {
+			"eng": "English",
+			"smo": "Samoan",
+			"tkl": "Tokelauan"
+		},
+		"capital": "Fakaofo"
+	},
+	{
+		"name": "Tonga",
+		"esName": "Tonga",
+		"code": "TON",
+		"flag": "https://flagcdn.com/to.svg",
+		"altImg": "Flag of Tonga",
+		"population": 103197,
+		"continents": [
+			"Oceania"
+		],
+		"languages": {
+			"eng": "English",
+			"ton": "Tongan"
+		},
+		"capital": "Nuku'alofa"
+	},
+	{
+		"name": "Trinidad and Tobago",
+		"esName": "Trinidad y Tobago",
+		"code": "TTO",
+		"flag": "https://flagcdn.com/tt.svg",
+		"altImg": "Flag of Trinidad and Tobago",
+		"population": 1389858,
+		"continents": [
+			"North America"
+		],
+		"languages": {
+			"eng": "English"
+		},
+		"capital": "Port of Spain"
+	},
+	{
+		"name": "Tunisia",
+		"esName": "Túnez",
+		"code": "TUN",
+		"flag": "https://flagcdn.com/tn.svg",
+		"altImg": "Flag of Tunisia",
+		"population": 11565204,
+		"continents": [
+			"Africa"
+		],
+		"languages": {
+			"ara": "Arabic"
+		},
+		"capital": "Tunis"
+	},
+	{
+		"name": "Türkiye",
+		"esName": "Turquía",
+		"code": "TUR",
+		"flag": "https://flagcdn.com/tr.svg",
+		"altImg": "Flag of Türkiye",
+		"population": 82319724,
+		"continents": [
+			"Asia"
+		],
+		"languages": {
+			"tur": "Turkish"
+		},
+		"capital": "Ankara"
+	},
+	{
+		"name": "Turkmenistan",
+		"esName": "Turkmenistán",
+		"code": "TKM",
+		"flag": "https://flagcdn.com/tm.svg",
+		"altImg": "Flag of Turkmenistan",
+		"population": 5850908,
+		"continents": [
+			"Asia"
+		],
+		"languages": {
+			"rus": "Russian",
+			"tuk": "Turkmen"
+		},
+		"capital": "Ashgabat"
+	},
+	{
+		"name": "Turks and Caicos Islands",
+		"esName": "Islas Turks y Caicos",
+		"code": "TCA",
+		"flag": "https://flagcdn.com/tc.svg",
+		"altImg": "Flag of Turks and Caicos Islands",
+		"population": 37665,
+		"continents": [
+			"North America"
+		],
+		"languages": {
+			"eng": "English"
+		},
+		"capital": "Cockburn Town"
+	},
+	{
+		"name": "Tuvalu",
+		"esName": "Tuvalu",
+		"code": "TUV",
+		"flag": "https://flagcdn.com/tv.svg",
+		"altImg": "Flag of Tuvalu",
+		"population": 11508,
+		"continents": [
+			"Oceania"
+		],
+		"languages": {
+			"eng": "English",
+			"tvl": "Tuvaluan"
+		},
+		"capital": "Funafuti"
+	},
+	{
+		"name": "Uganda",
+		"esName": "Uganda",
+		"code": "UGA",
+		"flag": "https://flagcdn.com/ug.svg",
+		"altImg": "Flag of Uganda",
+		"population": 42723139,
+		"continents": [
+			"Africa"
+		],
+		"languages": {
+			"eng": "English",
+			"swa": "Swahili"
+		},
+		"capital": "Kampala"
+	},
+	{
+		"name": "Ukraine",
+		"esName": "Ucrania",
+		"code": "UKR",
+		"flag": "https://flagcdn.com/ua.svg",
+		"altImg": "Flag of Ukraine",
+		"population": 44622516,
+		"continents": [
+			"Europe"
+		],
+		"languages": {
+			"ukr": "Ukrainian"
+		},
+		"capital": "Kyiv"
+	},
+	{
+		"name": "United Arab Emirates",
+		"esName": "Emiratos Árabes Unidos",
+		"code": "ARE",
+		"flag": "https://flagcdn.com/ae.svg",
+		"altImg": "Flag of United Arab Emirates",
+		"population": 9630959,
+		"continents": [
+			"Asia"
+		],
+		"languages": {
+			"ara": "Arabic"
+		},
+		"capital": "Abu Dhabi"
+	},
+	{
+		"name": "United Kingdom",
+		"esName": "Reino Unido",
+		"code": "GBR",
+		"flag": "https://flagcdn.com/gb.svg",
+		"altImg": "Flag of United Kingdom",
+		"population": 66460344,
+		"continents": [
+			"Europe"
+		],
+		"languages": {
+			"eng": "English"
+		},
+		"capital": "London"
+	},
+	{
+		"name": "United States",
+		"esName": "Estados Unidos",
+		"code": "USA",
+		"flag": "https://flagcdn.com/us.svg",
+		"altImg": "Flag of United States",
+		"population": 326687501,
+		"continents": [
+			"North America"
+		],
+		"languages": {
+			"eng": "English"
+		},
+		"capital": "Washington D.C."
+	},
+	{
+		"name": "United States Minor Outlying Islands",
+		"esName": "Islas Ultramarinas Menores de Estados Unidos",
+		"code": "UMI",
+		"flag": "https://flagcdn.com/um.svg",
+		"altImg": "Flag of United States Minor Outlying Islands",
+		"population": 300,
+		"continents": [
+			"Oceania"
+		],
+		"languages": {
+			"eng": "English"
+		},
+		"capital": ""
+	},
+	{
+		"name": "United States Virgin Islands",
+		"esName": "Islas Vírgenes de los Estados Unidos",
+		"code": "VIR",
+		"flag": "https://flagcdn.com/vi.svg",
+		"altImg": "Flag of United States Virgin Islands",
+		"population": 106977,
+		"continents": [
+			"North America"
+		],
+		"languages": {
+			"eng": "English"
+		},
+		"capital": "Charlotte Amalie"
+	},
+	{
+		"name": "Uruguay",
+		"esName": "Uruguay",
+		"code": "URY",
+		"flag": "https://flagcdn.com/uy.svg",
+		"altImg": "Flag of Uruguay",
+		"population": 3449299,
+		"continents": [
+			"South America"
+		],
+		"languages": {
+			"spa": "Spanish"
+		},
+		"capital": "Montevideo"
+	},
+	{
+		"name": "Uzbekistan",
+		"esName": "Uzbekistán",
+		"code": "UZB",
+		"flag": "https://flagcdn.com/uz.svg",
+		"altImg": "Flag of Uzbekistan",
+		"population": 32955400,
+		"continents": [
+			"Asia"
+		],
+		"languages": {
+			"rus": "Russian",
+			"uzb": "Uzbek"
+		},
+		"capital": "Tashkent"
+	},
+	{
+		"name": "Vanuatu",
+		"esName": "Vanuatu",
+		"code": "VUT",
+		"flag": "https://flagcdn.com/vu.svg",
+		"altImg": "Flag of Vanuatu",
+		"population": 292680,
+		"continents": [
+			"Oceania"
+		],
+		"languages": {
+			"bis": "Bislama",
+			"eng": "English",
+			"fra": "French"
+		},
+		"capital": "Port Vila"
+	},
+	{
+		"name": "Vatican City",
+		"esName": "Ciudad del Vaticano",
+		"code": "VAT",
+		"flag": "https://flagcdn.com/va.svg",
+		"altImg": "Flag of Vatican City",
+		"population": 825,
+		"continents": [
+			"Europe"
+		],
+		"languages": {
+			"ita": "Italian",
+			"lat": "Latin"
+		},
+		"capital": "Vatican City"
+	},
+	{
+		"name": "Venezuela",
+		"esName": "Venezuela",
+		"code": "VEN",
+		"flag": "https://flagcdn.com/ve.svg",
+		"altImg": "Flag of Venezuela",
+		"population": 28870195,
+		"continents": [
+			"South America"
+		],
+		"languages": {
+			"spa": "Spanish"
+		},
+		"capital": "Caracas"
+	},
+	{
+		"name": "Vietnam",
+		"esName": "Vietnam",
+		"code": "VNM",
+		"flag": "https://flagcdn.com/vn.svg",
+		"altImg": "Flag of Vietnam",
+		"population": 95540395,
+		"continents": [
+			"Asia"
+		],
+		"languages": {
+			"vie": "Vietnamese"
+		},
+		"capital": "Hanoi"
+	},
+	{
+		"name": "Wallis and Futuna",
+		"esName": "Wallis y Futuna",
+		"code": "WLF",
+		"flag": "https://flagcdn.com/wf.svg",
+		"altImg": "Flag of Wallis and Futuna",
+		"population": 15289,
+		"continents": [
+			"Oceania"
+		],
+		"languages": {
+			"fra": "French"
+		},
+		"capital": "Mata-Utu"
+	},
+	{
+		"name": "Western Sahara",
+		"esName": "Sahara Occidental",
+		"code": "ESH",
+		"flag": "https://flagcdn.com/eh.svg",
+		"altImg": "Flag of Western Sahara",
+		"population": 652271,
+		"continents": [
+			"Africa"
+		],
+		"languages": {
+			"ber": "Berber",
+			"mey": "Hassaniya",
+			"spa": "Spanish"
+		},
+		"capital": "El Aaiún"
+	},
+	{
+		"name": "Yemen",
+		"esName": "Yemen",
+		"code": "YEM",
+		"flag": "https://flagcdn.com/ye.svg",
+		"altImg": "Flag of Yemen",
+		"population": 28498687,
+		"continents": [
+			"Asia"
+		],
+		"languages": {
+			"ara": "Arabic"
+		},
+		"capital": "Sana'a"
+	},
+	{
+		"name": "Zambia",
+		"esName": "Zambia",
+		"code": "ZMB",
+		"flag": "https://flagcdn.com/zm.svg",
+		"altImg": "Flag of Zambia",
+		"population": 17351822,
+		"continents": [
+			"Africa"
+		],
+		"languages": {
+			"eng": "English"
+		},
+		"capital": "Lusaka"
+	},
+	{
+		"name": "Zimbabwe",
+		"esName": "Zimbabue",
+		"code": "ZWE",
+		"flag": "https://flagcdn.com/zw.svg",
+		"altImg": "Flag of Zimbabwe",
+		"population": 14439018,
+		"continents": [
+			"Africa"
+		],
+		"languages": {
+			"bwg": "Chibarwe",
+			"eng": "English",
+			"kck": "Kalanga",
+			"khi": "Khoisan",
+			"ndc": "Ndau",
+			"nde": "Northern Ndebele",
+			"nya": "Chewa",
+			"sna": "Shona",
+			"sot": "Sotho",
+			"toi": "Tonga",
+			"tsn": "Tswana",
+			"tso": "Tsonga",
+			"ven": "Venda",
+			"xho": "Xhosa",
+			"zib": "Zimbabwean Sign Language"
+		},
+		"capital": "Harare"
+	}
+]

@@ -1,12 +1,12 @@
 # Countries App
 
-This web application allows users to explore countries from around the world. It leverages data from the [Rest Countries API](https://restcountries.com/) to fetch country information and display it in an intuitive interface.
+This web application allows users to explore countries from around the world, displaying their information in an intuitive interface.
 
 [Click to see the live version](https://countries-no-db.onrender.com/)
 
 ## Features
 
-- **Country Data**: Fetches country data from the Rest Countries API.
+- **Country Data**: Ships with a self-contained snapshot in `src/data/countries.json`, so the app needs no external API at runtime. Regenerate it with `npm run build:data` — the script in `scripts/build-countries.mjs` pulls from [mledoze/countries](https://github.com/mledoze/countries), [samayo/country-json](https://github.com/samayo/country-json) and [flagcdn.com](https://flagcdn.com/). (It originally used the Rest Countries API, which shut down its free v3.1 endpoints.)
 - **Pagination**: Implements pagination for easier navigation through the list of countries.
 - **Country Details**: Provides detailed information about each country upon selection.
 - **Sorting and Filtering**: Enables sorting and filtering of countries by continent.

@@ -1,55 +1,15 @@
-import axios from "axios";
+import countries from "@src/data/countries.json";
+import type { CountriesType } from "@src/types/countries";
 
-export const getCountries = async () => {
-	try {
-		const response = await axios.get("https://restcountries.com/v3.1/all");
-		// biome-ignore lint/suspicious/noExplicitAny: <explanation>
-		const mappedData = response.data.map((country: any) => ({
-			name: country.name.common,
-			esName: country.translations.spa?.common || country.name.common,
-			code: country.cca3,
-			flag: country.flags.svg,
-			altImg: country.flags.alt,
-			population: country.population,
-			continents: country.continents,
-			languages: country.languages,
-			capital: Array.isArray(country.capital)
-				? country.capital[0]
-				: country.capital,
-		}));
+// The app used to call restcountries.com/v3.1, which was shut down. The country
+// data now lives in a static snapshot (src/data/countries.json, regenerated with
+// `npm run build:data`), so these stay async only to keep their call sites intact.
 
-		return mappedData;
-	} catch (error) {
-		return error;
-	}
-};
+const dataset = countries as unknown as CountriesType[];
 
-export const getCountry = async (code: string) => {
-	try {
-		const response = await axios.get(
-			`https://restcountries.com/v3.1/alpha/${code}`,
-		);
+export const getCountries = async (): Promise<CountriesType[]> => dataset;
 
-		const data = response.data[0];
-
-		const mappedCountry = data
-			? {
-					name: data?.name?.common,
-					esName: data?.translations?.spa?.common || data?.name?.common,
-					code: data?.cca3,
-					flag: data?.flags?.svg,
-					altImg: data?.flags?.alt,
-					population: data?.population,
-					continents: data?.continents,
-					languages: data?.languages,
-					capital: Array.isArray(data?.capital)
-						? data?.capital[0]
-						: data?.capital,
-				}
-			: null;
-
-		return mappedCountry;
-	} catch (error) {
-		return error;
-	}
-};
+export const getCountry = async (code: string): Promise<CountriesType | null> =>
+	dataset.find(
+		(country) => country.code.toLowerCase() === code.toLowerCase(),
+	) ?? null;
